@@ -122,6 +122,3 @@ If you are using this repository as a learning track, this order fits the curren
 - Large notebook output files and generated images can make the repository heavy; consider clearing notebook outputs before pushing if you want a cleaner repo.
 - `ghaziabad_house_price_dataset_1000.csv` is present in the repository but does not appear to be referenced by the current notebooks.
 
-## License
-
-Add a license file if you plan to share or reuse this repository publicly.
