@@ -116,9 +116,3 @@ If you are using this repository as a learning track, this order fits the curren
 7. `FSML_8.ipynb`
 8. `FSML_9.ipynb`
 
-## Notes Before Publishing
-
-- Rename `.gitignore.txt` to `.gitignore` if you want GitHub to apply those ignore rules automatically.
-- Large notebook output files and generated images can make the repository heavy; consider clearing notebook outputs before pushing if you want a cleaner repo.
-- `ghaziabad_house_price_dataset_1000.csv` is present in the repository but does not appear to be referenced by the current notebooks.
-

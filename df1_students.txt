@@ -1,6 +1,0 @@
-Student_ID,Student_Name,Department
-101,Anuj,CSE
-102,Ravi,ECE
-103,Priya,ME
-104,Aman,CSE
-105,Neha,ECE

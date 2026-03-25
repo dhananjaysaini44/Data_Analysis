@@ -11,9 +11,24 @@ __pycache__/
 # Local IDE files
 .idea/
 
-# Dataset files
-*.csv
-*.txt
+# Datasets
+Fortune_10.csv
+fruits.csv
+ghaziabad_house_price_dataset_1000.csv
+students_dirty_data.csv
+tips.csv
+train.csv
+Who_is_responsible_for_global_warming.csv
+df1_students.txt
+df2_marks.txt
+students_dataset.txt
 
 # Generated visualizations
-*.png
+Barplot visualization of cleaned data for 'train_csv' dataset on object type columns.png
+cleaned data.png
+Histplot visualization of cleaned data for 'train_csv' dataset on numeric columns using Method 2.png
+Histplot visualization of cleaned data for 'train_csv' dataset on numeric columns.png
+Histplot visualization of cleaned data for 'train_csv' dataset on object type columns.png
+Kdeplot visualization of cleaned data for 'train_csv' dataset on numeric columns using Method 2.png
+Kdeplot visualization of cleaned data for 'train_csv' dataset on numeric columns.png
+Kdeplot visualization of cleaned data for 'train_csv' dataset on object type columns.png
