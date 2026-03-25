@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local IDE files
+.idea/
+
+# Dataset files
+*.csv
+*.txt
+
+# Generated visualizations
+*.png
