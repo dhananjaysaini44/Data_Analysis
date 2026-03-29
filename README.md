@@ -39,6 +39,9 @@ This repository contains a set of Jupyter notebooks for practicing data analysis
 - `FSML_9.ipynb`  
   Practice notebook for categorical encoding and feature scaling using `tips.csv`, `fruits.csv`, Titanic sample data, and `ghaziabad_house_price_dataset_1000.csv`. It covers `get_dummies`, `LabelEncoder`, `OrdinalEncoder`, `OneHotEncoder`, `MinMaxScaler`, `StandardScaler`, `RobustScaler`, and `ColumnTransformer`. Current status: useful for learning and experimentation, but some preprocessing and evaluation steps are still rough and should not be treated as a production-ready reference.
 
+- `P_2_FSML_9.ipynb`  
+  Follow-up Titanic workflow covering EDA, null handling, feature selection, categorical encoding, outlier-aware scaling, train/test split, and basic model fitting with `RandomForestClassifier` and `LinearRegression`. Current status: stronger than `FSML_9.ipynb` as a learning notebook, with better encoding choices and structure, but it still has leakage in preprocessing and an incorrect use of regression for a classification target, so it is not yet a clean reference workflow.
+
 ### Datasets
 
 The repository includes several sample datasets used directly by the notebooks:
@@ -115,3 +118,4 @@ If you are using this repository as a learning track, this order fits the curren
 6. `FSML_7.ipynb`
 7. `FSML_8.ipynb`
 8. `FSML_9.ipynb`
+9. `P_2_FSML_9.ipynb`
