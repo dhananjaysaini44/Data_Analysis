@@ -37,7 +37,7 @@ This repository contains a set of Jupyter notebooks for practicing data analysis
   Extended version of Method 2 with class-based mean imputation for missing values in `train.csv`.
 
 - `FSML_9.ipynb`  
-  Categorical encoding techniques using `tips.csv` and `fruits.csv`, including `get_dummies`, `LabelEncoder`, `OrdinalEncoder`, and `OneHotEncoder`.
+  Practice notebook for categorical encoding and feature scaling using `tips.csv`, `fruits.csv`, Titanic sample data, and `ghaziabad_house_price_dataset_1000.csv`. It covers `get_dummies`, `LabelEncoder`, `OrdinalEncoder`, `OneHotEncoder`, `MinMaxScaler`, `StandardScaler`, `RobustScaler`, and `ColumnTransformer`. Current status: useful for learning and experimentation, but some preprocessing and evaluation steps are still rough and should not be treated as a production-ready reference.
 
 ### Datasets
 
@@ -115,4 +115,3 @@ If you are using this repository as a learning track, this order fits the curren
 6. `FSML_7.ipynb`
 7. `FSML_8.ipynb`
 8. `FSML_9.ipynb`
-
