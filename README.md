@@ -1,51 +1,41 @@
 # Data Analysis
 
-This repository contains a set of Jupyter notebooks for practicing data analysis, data cleaning, visualization, and categorical encoding with Python. The work is organized as notebook-based exercises using small CSV/TXT datasets and a larger `train.csv` dataset for preprocessing and exploratory analysis.
+This repository is a notebook-first learning workspace for Python-based data analysis and ML practice. It includes foundational exercises, preprocessing methods, encoding/scaling practice, classification/regression workflows, and a detailed end-to-end ML handbook.
 
-## Project Focus
+## What This Project Covers
 
-- NumPy basics and array operations
-- Pandas data loading, inspection, and transformation
-- Grouping and summarizing tabular data
+- NumPy and pandas fundamentals
 - Data cleaning and missing-value handling
-- Exploratory data analysis with Seaborn and Matplotlib
-- Feature encoding with `pandas` and `scikit-learn`
+- EDA and visualization with matplotlib/seaborn
+- Categorical encoding and feature scaling
+- Titanic and house-price style modeling practice
+- End-to-end ML engineering workflow guidance
 
-## Repository Structure
+## Project Files
 
 ### Notebooks
 
-- `FSML_1.ipynb`  
-  Introductory practice with `numpy`, basic arrays, shapes, dtypes, and simple `scikit-learn` usage.
+- `FSML_1.ipynb` - NumPy foundations and introductory ML setup
+- `FSML_2.ipynb` - pandas basics with `Fortune_10.csv`
+- `FSML_3.ipynb` - grouping/aggregation with student datasets
+- `FSML_5_&_6.ipynb` - cleaning + visualization workflows on `train.csv`
+- `P_1_FSML_5_&_6.ipynb` - preprocessing strategy (columns-first)
+- `FSML_7.ipynb` - preprocessing strategy (rows-first)
+- `FSML_8.ipynb` - extended missing-value strategy on `train.csv`
+- `FSML_9.ipynb` - encoding/scaling experiments across multiple datasets
+- `P_2_FSML_9.ipynb` - extended Titanic-style preprocessing/modeling flow
+- `FSML_10.ipynb` - advanced continuation notebook in the FSML sequence
+- `hapur_house_price_prediction_model.ipynb` - house-price prediction workflow
+- `hapur_house_price_prediction_model_corrected.ipynb` - refined house-price workflow
 
-- `FSML_2.ipynb`  
-  Pandas fundamentals using `Fortune_10.csv`, including dataset inspection and basic cleaning operations.
+### Documents
 
-- `FSML_3.ipynb`  
-  Grouping, aggregation, and analysis with student datasets such as `students_dataset.txt`, `df1_students.txt`, `df2_marks.txt`, and `students_dirty_data.csv`.
+- `ML_Workflow.md` - comprehensive practical ML workflow guide (from problem framing to deployment habits)
+- `environment.yml` - conda environment specification for this project
 
-- `FSML_5_&_6.ipynb`  
-  Data visualization and preprocessing work using `Who_is_responsible_for_global_warming.csv` and `train.csv`, including heatmaps, histograms, and KDE plots.
+### Datasets (included in repository)
 
-- `P_1_FSML_5_&_6.ipynb`  
-  Preprocessing workflow labeled as "Method 1 - Columns first then rows" on `train.csv`.
-
-- `FSML_7.ipynb`  
-  Alternative preprocessing workflow labeled as "Method 2 - Rows first then Columns" on `train.csv`.
-
-- `FSML_8.ipynb`  
-  Extended version of Method 2 with class-based mean imputation for missing values in `train.csv`.
-
-- `FSML_9.ipynb`  
-  Practice notebook for categorical encoding and feature scaling using `tips.csv`, `fruits.csv`, Titanic sample data, and `ghaziabad_house_price_dataset_1000.csv`. It covers `get_dummies`, `LabelEncoder`, `OrdinalEncoder`, `OneHotEncoder`, `MinMaxScaler`, `StandardScaler`, `RobustScaler`, and `ColumnTransformer`. Current status: useful for learning and experimentation, but some preprocessing and evaluation steps are still rough and should not be treated as a production-ready reference.
-
-- `P_2_FSML_9.ipynb`  
-  Follow-up Titanic workflow covering EDA, null handling, feature selection, categorical encoding, outlier-aware scaling, train/test split, and basic model fitting with `RandomForestClassifier` and `LinearRegression`. Current status: stronger than `FSML_9.ipynb` as a learning notebook, with better encoding choices and structure, but it still has leakage in preprocessing and an incorrect use of regression for a classification target, so it is not yet a clean reference workflow.
-
-### Datasets
-
-The repository includes several sample datasets used directly by the notebooks:
-
+- `Bengaluru_House_Data.csv`
 - `Fortune_10.csv`
 - `Who_is_responsible_for_global_warming.csv`
 - `train.csv`
@@ -56,59 +46,44 @@ The repository includes several sample datasets used directly by the notebooks:
 - `df1_students.txt`
 - `df2_marks.txt`
 - `ghaziabad_house_price_dataset_1000.csv`
+- `hapur_house_price_dataset.csv`
+- `titanic_AfterEDA.csv`
+- `titanic after encoding.csv`
 
-### Generated Images
+### Generated Visual Outputs
 
-Several `.png` files store visualization outputs generated from the notebooks, mainly from the `train.csv` cleaning and EDA workflow.
+The repository also contains multiple `.png` charts generated from EDA and cleaning workflows, especially for the `train.csv` exercises.
 
 ## Tech Stack
 
-- Python
+- Python 3.12
 - Jupyter Notebook
 - NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- pandas
+- matplotlib
+- seaborn
 - scikit-learn
 
-## Getting Started
+## Setup
 
-### 1. Clone the repository
-
-```bash
-git clone <your-repo-url>
-cd Data_Analysis
-```
-
-### 2. Create and activate a virtual environment
+### Option A: Conda (recommended)
 
 ```bash
-python -m venv .venv
-```
-
-On Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
-
-### 4. Launch Jupyter
-
-```bash
+conda env create -f environment.yml
+conda activate data-analysis
 jupyter notebook
 ```
 
-Then open any notebook from the browser interface and run the cells in order.
+### Option B: venv + pip
 
-## Suggested Learning Order
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install numpy pandas matplotlib seaborn scikit-learn notebook ipykernel
+jupyter notebook
+```
 
-If you are using this repository as a learning track, this order fits the current notebook content:
+## Suggested Learning Flow
 
 1. `FSML_1.ipynb`
 2. `FSML_2.ipynb`
@@ -119,3 +94,13 @@ If you are using this repository as a learning track, this order fits the curren
 7. `FSML_8.ipynb`
 8. `FSML_9.ipynb`
 9. `P_2_FSML_9.ipynb`
+10. `FSML_10.ipynb`
+11. `hapur_house_price_prediction_model.ipynb`
+12. `hapur_house_price_prediction_model_corrected.ipynb`
+
+## Positive Improvement Opportunities
+
+- Move datasets/images into dedicated folders like `data/` and `outputs/` for cleaner navigation.
+- Add a short objective + expected output section at the top of each notebook for faster revision.
+- Add reusable preprocessing utilities in a small `src/` package to reduce repeated notebook code.
+- Add one benchmark metrics table in the README to track progress across classification/regression notebooks.

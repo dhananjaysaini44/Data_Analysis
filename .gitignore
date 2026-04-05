@@ -5,6 +5,17 @@
 __pycache__/
 *.pyc
 
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+*.db3
+*.sdb
+*.mdb
+*.accdb
+*.db-journal
+*.sqlite-journal
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
@@ -25,6 +36,7 @@ df1_students.txt
 df2_marks.txt
 students_dataset.txt
 Bengaluru_House_Data.csv
+hapur_house_price_dataset.csv
 
 # Generated visualizations
 Barplot visualization of cleaned data for 'train_csv' dataset on object type columns.png
