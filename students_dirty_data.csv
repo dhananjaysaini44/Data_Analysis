@@ -1,0 +1,8 @@
+Roll,Name,Marks,Branch,Email,Join_Date
+101,"Anuj","85","CSE","anuj@gmail.com","2023-01-10"
+102,"  Ravi ","Ninety","ECE","ravi@gmail","2023-11-10"
+103,"","-10","ME","","2023/03/15"
+104,"","105","","priya@gmail.com","invalid"
+105,"Priya","",""," ",""
+105,"Priya","88","CSE","anuj@gmail.com","2024-09-30"
+,"123","45","cse","invalid","2023-13-01"

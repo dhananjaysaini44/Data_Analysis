@@ -1,0 +1,1001 @@
+location,gaj,bhk,bath,balcony,age,floor,total_floor,property_type,furnishing,price
+Gandhi Ganj,152,4,1,2,10,4,5,Villa,Furnished,5055168
+Vijay Nagar,152,2,1,2,10,2,3,Builder Floor,Unfurnished,4667176
+Pilkhuwa Road,201,3,2,0,1,3,5,Villa,Furnished,5059033
+Kothi Gate,241,4,1,0,11,1,3,Villa,Furnished,6611436
+Gandhi Ganj,285,1,1,0,9,3,5,Builder Floor,Furnished,5503865
+Gandhi Ganj,224,3,3,3,2,4,5,Villa,Unfurnished,5851360
+Laxmi Nagar,184,5,1,2,17,3,4,Independent House,Furnished,5772120
+Arya Nagar,63,2,2,0,1,3,5,Builder Floor,Furnished,2604581
+Meerut Road,313,3,2,0,3,1,5,Independent House,Unfurnished,12800041
+Shastri Nagar,103,2,2,1,17,1,5,Builder Floor,Unfurnished,1626583
+Arya Nagar,251,4,2,2,15,3,4,Villa,Semi-Furnished,7210779
+Hapur Bypass,102,2,1,3,12,0,5,Villa,Unfurnished,3721492
+Vijay Nagar,350,1,1,0,6,0,1,Plot,Semi-Furnished,7609450
+Vijay Nagar,185,3,3,0,7,2,5,Builder Floor,Unfurnished,6293210
+Vijay Nagar,310,2,1,1,8,3,4,Builder Floor,Semi-Furnished,8801520
+Delhi Road,377,4,2,0,15,4,5,Independent House,Semi-Furnished,14796355
+Hapur Bypass,263,3,3,0,2,4,5,Plot,Unfurnished,7892930
+Kavi Nagar Extension,180,1,1,0,13,2,3,Plot,Semi-Furnished,3187080
+Garh Road,64,2,2,3,12,2,5,Independent House,Unfurnished,2183808
+Arya Nagar,280,1,1,3,3,4,5,Builder Floor,Furnished,7770720
+Meerut Road,280,5,3,0,3,4,5,Builder Floor,Semi-Furnished,10985440
+Meerut Road,236,3,2,3,1,1,2,Independent House,Furnished,7580204
+Meerut Road,183,4,4,3,11,3,5,Builder Floor,Furnished,5771659
+Vijay Nagar,380,2,1,3,6,0,1,Independent House,Unfurnished,8196280
+Meerut Road,170,4,1,0,2,2,3,Plot,Unfurnished,4737160
+Shastri Nagar,274,3,2,3,14,2,4,Independent House,Furnished,10278846
+Freeganj Road,282,4,1,1,16,1,5,Plot,Semi-Furnished,10624350
+Freeganj Road,344,2,1,0,4,0,1,Independent House,Furnished,12956208
+Shastri Nagar,162,2,2,3,4,0,1,Independent House,Semi-Furnished,5699738
+Kavi Nagar Extension,179,5,4,1,5,3,4,Builder Floor,Semi-Furnished,4366158
+Garh Road,233,3,1,2,5,4,5,Builder Floor,Furnished,9510395
+Simbhaoli Road,147,3,3,3,15,0,1,Plot,Unfurnished,4162833
+Babugarh Road,236,5,3,3,3,2,4,Plot,Semi-Furnished,6038696
+Garh Road,196,4,4,2,19,0,1,Plot,Furnished,7365228
+Arya Nagar,177,2,2,0,10,3,4,Independent House,Unfurnished,4611032
+Laxmi Nagar,200,2,1,2,15,1,5,Villa,Unfurnished,5491600
+Pilkhuwa Road,109,1,1,1,0,3,4,Builder Floor,Furnished,4504628
+Meerut Road,209,3,3,0,8,2,5,Villa,Furnished,7546559
+Kothi Gate,257,3,2,3,0,3,4,Plot,Unfurnished,10374224
+Laxmi Nagar,153,4,2,2,15,0,3,Independent House,Furnished,3446600
+Simbhaoli Road,398,2,2,1,17,1,3,Villa,Unfurnished,14411320
+Babugarh Road,218,4,1,3,0,4,5,Villa,Semi-Furnished,6029166
+Kothi Gate,184,3,1,3,0,3,4,Builder Floor,Semi-Furnished,5761200
+Arya Nagar,71,5,3,1,7,2,5,Builder Floor,Furnished,3249239
+Gandhi Ganj,326,1,1,3,14,0,5,Villa,Furnished,8626696
+Laxmi Nagar,353,3,3,3,16,0,4,Villa,Unfurnished,13421917
+Simbhaoli Road,95,5,3,3,8,4,5,Builder Floor,Furnished,4277545
+Laxmi Nagar,398,1,1,1,2,3,4,Villa,Unfurnished,8135620
+Meerut Road,302,5,1,3,2,1,2,Independent House,Unfurnished,7111838
+Delhi Road,372,2,2,2,1,2,4,Villa,Unfurnished,8314148
+Pilkhuwa Road,322,1,1,0,10,4,5,Villa,Semi-Furnished,8007922
+Garh Road,296,2,1,1,12,3,5,Independent House,Unfurnished,11442864
+Babugarh Road,362,4,1,3,0,3,4,Independent House,Unfurnished,12891886
+Shastri Nagar,371,3,1,1,16,3,5,Builder Floor,Semi-Furnished,12910398
+Meerut Road,150,1,1,3,11,3,4,Villa,Semi-Furnished,2781400
+Garh Road,399,3,3,3,19,4,5,Villa,Unfurnished,9411535
+Gandhi Ganj,173,2,2,2,16,2,4,Plot,Furnished,5527326
+Arya Nagar,395,5,2,0,8,3,4,Builder Floor,Unfurnished,15628960
+Kothi Gate,107,2,1,2,1,0,5,Plot,Semi-Furnished,4228108
+Babugarh Road,321,5,5,1,2,3,5,Plot,Furnished,7858959
+Gandhi Ganj,135,1,1,0,13,3,4,Plot,Semi-Furnished,3776850
+Kavi Nagar Extension,143,4,1,3,15,1,3,Villa,Semi-Furnished,3264497
+Vijay Nagar,390,4,1,1,4,1,3,Plot,Furnished,13886910
+Arya Nagar,374,4,2,3,9,1,4,Independent House,Furnished,8760886
+Laxmi Nagar,145,1,1,3,4,4,5,Plot,Furnished,3568595
+Laxmi Nagar,65,2,1,3,19,3,5,Villa,Semi-Furnished,1525970
+Kothi Gate,82,1,1,0,18,2,3,Plot,Furnished,1381734
+Arya Nagar,372,1,1,0,7,1,4,Builder Floor,Furnished,11246592
+Garh Road,61,2,1,2,17,2,5,Builder Floor,Unfurnished,1763141
+Meerut Road,139,2,1,0,6,3,5,Independent House,Furnished,3678555
+Freeganj Road,124,5,4,0,3,1,2,Builder Floor,Unfurnished,5672112
+Hapur Bypass,241,3,1,2,15,3,5,Villa,Unfurnished,5900064
+Pilkhuwa Road,145,5,4,0,12,0,3,Builder Floor,Semi-Furnished,5269680
+Gandhi Ganj,111,4,4,0,12,2,5,Independent House,Semi-Furnished,4030832
+Railway Road,149,4,1,0,18,3,4,Villa,Unfurnished,3252798
+Kothi Gate,333,4,3,1,14,4,5,Plot,Furnished,8255503
+Shastri Nagar,74,4,3,0,3,4,5,Builder Floor,Furnished,2216358
+Babugarh Road,106,5,5,1,6,1,2,Independent House,Unfurnished,3385404
+Gandhi Ganj,270,3,3,1,14,3,4,Builder Floor,Furnished,9980990
+Freeganj Road,302,5,2,0,17,2,4,Independent House,Unfurnished,11603048
+Railway Road,78,5,3,3,15,4,5,Builder Floor,Semi-Furnished,3194422
+Freeganj Road,194,1,1,0,3,3,5,Villa,Semi-Furnished,7784780
+Vijay Nagar,324,5,4,1,6,2,4,Builder Floor,Unfurnished,12197140
+Vijay Nagar,222,5,2,3,19,3,5,Plot,Furnished,7401752
+Simbhaoli Road,50,3,1,3,16,0,1,Builder Floor,Unfurnished,1051450
+Hapur Bypass,166,2,2,0,12,4,5,Villa,Unfurnished,3935060
+Gandhi Ganj,198,5,3,3,4,3,4,Plot,Unfurnished,7500914
+Delhi Road,96,1,1,0,13,0,5,Independent House,Unfurnished,2605584
+Babugarh Road,308,1,1,2,11,1,5,Independent House,Furnished,9205084
+Hapur Bypass,205,5,2,3,3,1,5,Independent House,Furnished,8871445
+Shastri Nagar,365,2,2,3,4,0,4,Villa,Semi-Furnished,9705330
+Arya Nagar,194,1,1,0,19,4,5,Independent House,Furnished,3669126
+Pilkhuwa Road,289,5,5,1,2,4,5,Independent House,Semi-Furnished,10343653
+Meerut Road,131,3,1,2,1,1,5,Builder Floor,Furnished,3841244
+Gandhi Ganj,168,1,1,1,0,1,5,Builder Floor,Semi-Furnished,5836400
+Railway Road,226,3,1,1,16,4,5,Builder Floor,Furnished,8391842
+Gandhi Ganj,154,3,3,0,15,3,4,Independent House,Unfurnished,4448440
+Shastri Nagar,308,5,5,0,4,1,3,Villa,Semi-Furnished,11104448
+Arya Nagar,134,1,1,1,0,2,3,Independent House,Furnished,5171400
+Garh Road,309,1,1,0,7,1,5,Builder Floor,Unfurnished,10488870
+Shastri Nagar,121,2,2,1,2,2,4,Independent House,Furnished,3247923
+Laxmi Nagar,103,4,1,1,16,4,5,Villa,Unfurnished,2780588
+Delhi Road,115,3,3,2,5,3,5,Builder Floor,Semi-Furnished,3449135
+Kothi Gate,355,2,2,1,14,2,5,Independent House,Furnished,10424195
+Pilkhuwa Road,357,1,1,1,0,3,5,Independent House,Unfurnished,9072878
+Kothi Gate,155,3,1,0,3,1,5,Plot,Semi-Furnished,6627680
+Railway Road,379,1,1,3,19,4,5,Villa,Semi-Furnished,9839639
+Simbhaoli Road,102,2,1,1,10,2,5,Villa,Semi-Furnished,3805580
+Kavi Nagar Extension,160,1,1,2,15,2,4,Plot,Furnished,4673520
+Freeganj Road,233,1,1,2,2,2,3,Independent House,Unfurnished,8733815
+Gandhi Ganj,110,2,1,2,4,1,5,Independent House,Furnished,2925470
+Pilkhuwa Road,366,5,1,0,8,3,5,Independent House,Furnished,14865582
+Simbhaoli Road,127,2,1,2,8,1,2,Villa,Furnished,3205480
+Laxmi Nagar,263,3,3,3,16,1,5,Independent House,Semi-Furnished,8628384
+Garh Road,57,1,1,2,19,1,5,Independent House,Unfurnished,854550
+Kothi Gate,127,2,1,1,13,2,5,Plot,Semi-Furnished,2941002
+Garh Road,52,3,3,3,12,1,3,Independent House,Unfurnished,1397864
+Babugarh Road,64,1,1,2,4,3,5,Plot,Semi-Furnished,1347968
+Shastri Nagar,322,2,2,3,16,4,5,Builder Floor,Unfurnished,9734950
+Babugarh Road,74,4,2,2,8,4,5,Villa,Semi-Furnished,2351454
+Delhi Road,160,2,1,3,7,0,4,Villa,Furnished,4328080
+Simbhaoli Road,91,1,1,0,5,3,5,Plot,Furnished,3196789
+Kothi Gate,275,3,3,0,5,4,5,Plot,Unfurnished,10757100
+Hapur Bypass,199,5,4,1,10,0,3,Plot,Semi-Furnished,4995410
+Delhi Road,89,5,4,3,5,1,5,Independent House,Semi-Furnished,3779827
+Simbhaoli Road,124,4,3,1,16,2,4,Builder Floor,Furnished,3169440
+Laxmi Nagar,243,3,2,2,12,3,4,Plot,Semi-Furnished,6431967
+Kavi Nagar Extension,167,4,3,3,0,3,4,Independent House,Semi-Furnished,5189261
+Simbhaoli Road,96,1,1,1,13,4,5,Independent House,Semi-Furnished,1654032
+Hapur Bypass,188,4,1,2,2,0,2,Plot,Unfurnished,4461692
+Laxmi Nagar,310,2,2,1,12,1,5,Builder Floor,Unfurnished,8638720
+Babugarh Road,368,5,1,0,8,2,5,Builder Floor,Unfurnished,13197008
+Meerut Road,87,3,2,2,16,4,5,Plot,Semi-Furnished,2603053
+Railway Road,285,2,2,0,10,0,2,Builder Floor,Furnished,11020415
+Arya Nagar,84,1,1,3,7,2,3,Plot,Unfurnished,2834016
+Garh Road,54,3,3,1,3,0,5,Villa,Semi-Furnished,2472246
+Simbhaoli Road,138,2,2,3,6,2,3,Builder Floor,Furnished,3765970
+Kothi Gate,72,1,1,0,16,0,2,Villa,Semi-Furnished,2163432
+Arya Nagar,358,3,3,2,5,2,5,Independent House,Unfurnished,13805788
+Meerut Road,91,4,3,2,0,3,5,Builder Floor,Unfurnished,3479586
+Hapur Bypass,206,1,1,0,4,2,5,Independent House,Semi-Furnished,4601216
+Kavi Nagar Extension,303,4,2,1,9,4,5,Independent House,Furnished,10635638
+Railway Road,379,1,1,1,5,4,5,Builder Floor,Furnished,9944609
+Kavi Nagar Extension,265,4,4,2,7,4,5,Builder Floor,Furnished,9561230
+Kavi Nagar Extension,373,4,1,1,18,2,4,Plot,Semi-Furnished,8149268
+Shastri Nagar,197,3,2,1,7,1,3,Builder Floor,Semi-Furnished,4671271
+Arya Nagar,267,5,2,0,0,3,4,Villa,Unfurnished,11657305
+Simbhaoli Road,373,5,5,3,9,0,4,Plot,Unfurnished,12352093
+Babugarh Road,100,5,1,1,10,0,5,Villa,Unfurnished,2847600
+Arya Nagar,395,4,2,2,0,2,5,Independent House,Semi-Furnished,9769660
+Meerut Road,358,1,1,1,19,0,5,Plot,Furnished,11144192
+Vijay Nagar,340,4,1,1,10,1,4,Plot,Semi-Furnished,10046440
+Shastri Nagar,396,1,1,3,10,2,5,Plot,Unfurnished,12962040
+Delhi Road,231,1,1,2,19,4,5,Builder Floor,Semi-Furnished,6982032
+Garh Road,226,5,3,1,17,4,5,Villa,Unfurnished,8591100
+Hapur Bypass,386,4,1,0,19,3,4,Villa,Semi-Furnished,11397576
+Simbhaoli Road,98,1,1,3,12,2,5,Plot,Semi-Furnished,1653198
+Simbhaoli Road,260,5,1,0,15,2,4,Villa,Furnished,5649680
+Kavi Nagar Extension,127,3,3,1,1,3,4,Builder Floor,Semi-Furnished,4548595
+Vijay Nagar,215,3,3,3,0,4,5,Villa,Furnished,7553530
+Babugarh Road,180,2,2,2,13,1,5,Plot,Furnished,5945960
+Simbhaoli Road,104,4,4,1,6,4,5,Villa,Furnished,3752184
+Kothi Gate,370,1,1,2,2,2,5,Builder Floor,Semi-Furnished,13560600
+Gandhi Ganj,377,1,1,2,4,2,5,Villa,Unfurnished,8691358
+Delhi Road,313,2,1,3,13,2,3,Plot,Unfurnished,10726910
+Arya Nagar,360,2,1,1,6,0,5,Plot,Semi-Furnished,8542720
+Shastri Nagar,85,5,4,1,1,0,5,Builder Floor,Furnished,4348130
+Hapur Bypass,283,2,1,2,11,3,4,Villa,Furnished,5737532
+Hapur Bypass,305,1,1,1,11,2,4,Villa,Semi-Furnished,9133365
+Shastri Nagar,329,1,1,1,13,0,2,Plot,Unfurnished,7178194
+Meerut Road,258,1,1,3,1,4,5,Builder Floor,Unfurnished,5646432
+Shastri Nagar,250,3,2,3,12,1,4,Independent House,Furnished,7249000
+Simbhaoli Road,124,2,2,0,9,3,4,Plot,Unfurnished,3320816
+Hapur Bypass,214,1,1,1,11,4,5,Builder Floor,Unfurnished,5650774
+Shastri Nagar,391,5,3,0,5,2,4,Villa,Unfurnished,14067460
+Vijay Nagar,358,2,1,0,13,1,5,Builder Floor,Unfurnished,9036878
+Laxmi Nagar,242,3,1,3,18,1,2,Independent House,Semi-Furnished,6190198
+Meerut Road,162,3,3,3,2,1,4,Independent House,Semi-Furnished,4179182
+Railway Road,295,5,1,1,3,3,4,Independent House,Unfurnished,7269790
+Kothi Gate,293,3,1,1,12,2,4,Builder Floor,Unfurnished,10119048
+Kavi Nagar Extension,203,2,1,0,8,0,1,Villa,Unfurnished,4311720
+Railway Road,110,3,2,0,6,2,5,Villa,Unfurnished,2637720
+Garh Road,157,4,3,1,5,1,5,Builder Floor,Semi-Furnished,6626842
+Gandhi Ganj,150,4,3,2,16,4,5,Villa,Semi-Furnished,5506950
+Kothi Gate,106,1,1,2,11,2,5,Plot,Furnished,3793752
+Gandhi Ganj,130,5,1,1,11,2,4,Independent House,Semi-Furnished,4850370
+Garh Road,96,2,2,2,16,1,2,Independent House,Semi-Furnished,3395936
+Shastri Nagar,299,5,1,2,15,1,4,Independent House,Furnished,6678500
+Garh Road,131,4,3,2,17,2,4,Independent House,Semi-Furnished,2650434
+Hapur Bypass,322,3,1,1,2,4,5,Builder Floor,Semi-Furnished,7900526
+Hapur Bypass,232,4,3,2,16,3,4,Builder Floor,Furnished,8193544
+Kothi Gate,259,1,1,3,12,1,5,Plot,Unfurnished,8724311
+Freeganj Road,360,3,2,1,12,4,5,Independent House,Furnished,12879000
+Railway Road,145,3,3,2,13,3,4,Plot,Semi-Furnished,5520320
+Delhi Road,367,5,4,0,15,3,4,Builder Floor,Semi-Furnished,11486072
+Railway Road,315,1,1,2,6,3,4,Independent House,Semi-Furnished,9607040
+Kavi Nagar Extension,226,3,1,1,17,3,5,Independent House,Semi-Furnished,7494794
+Railway Road,342,1,1,3,0,4,5,Plot,Unfurnished,11925812
+Railway Road,122,1,1,0,3,3,4,Independent House,Furnished,3738426
+Gandhi Ganj,342,5,5,2,5,2,4,Villa,Furnished,8228856
+Meerut Road,275,1,1,2,19,3,4,Builder Floor,Unfurnished,9210500
+Laxmi Nagar,112,5,3,0,13,1,4,Builder Floor,Unfurnished,4517296
+Shastri Nagar,267,1,1,0,2,4,5,Plot,Semi-Furnished,10294060
+Meerut Road,103,1,1,0,2,3,5,Builder Floor,Furnished,3200918
+Meerut Road,227,2,2,0,2,2,4,Builder Floor,Semi-Furnished,6494149
+Pilkhuwa Road,138,1,1,3,13,4,5,Builder Floor,Semi-Furnished,3948474
+Delhi Road,316,1,1,3,2,2,3,Builder Floor,Semi-Furnished,11982232
+Pilkhuwa Road,275,4,2,0,14,0,5,Independent House,Semi-Furnished,10367950
+Meerut Road,275,4,3,1,7,2,3,Plot,Furnished,7406125
+Vijay Nagar,139,2,2,0,15,4,5,Plot,Furnished,3679193
+Simbhaoli Road,130,2,2,0,18,1,4,Independent House,Furnished,2306830
+Pilkhuwa Road,89,2,2,2,12,4,5,Independent House,Semi-Furnished,1696768
+Meerut Road,311,3,1,2,15,0,5,Builder Floor,Semi-Furnished,6182582
+Delhi Road,94,1,1,0,9,3,4,Villa,Unfurnished,1981372
+Laxmi Nagar,237,5,3,0,18,1,3,Independent House,Unfurnished,5484403
+Gandhi Ganj,207,2,2,1,13,4,5,Builder Floor,Unfurnished,3950858
+Simbhaoli Road,273,5,3,0,8,0,2,Independent House,Semi-Furnished,9605451
+Hapur Bypass,393,5,3,3,5,2,4,Independent House,Furnished,13215174
+Vijay Nagar,123,1,1,3,1,3,5,Plot,Semi-Furnished,2902986
+Pilkhuwa Road,271,5,5,1,3,3,5,Independent House,Semi-Furnished,9730941
+Shastri Nagar,291,4,3,3,16,3,5,Independent House,Unfurnished,8169243
+Babugarh Road,242,2,2,2,17,1,3,Plot,Semi-Furnished,5551358
+Delhi Road,224,5,4,3,2,3,4,Plot,Unfurnished,7910304
+Freeganj Road,183,3,3,1,1,1,2,Builder Floor,Unfurnished,6824704
+Shastri Nagar,148,5,1,2,14,4,5,Builder Floor,Furnished,4798608
+Delhi Road,124,4,4,1,14,3,5,Builder Floor,Semi-Furnished,4033528
+Garh Road,76,3,1,1,11,3,4,Independent House,Semi-Furnished,2059896
+Simbhaoli Road,133,3,1,0,2,2,3,Villa,Furnished,4869981
+Arya Nagar,64,2,1,2,16,0,4,Independent House,Semi-Furnished,1224960
+Kavi Nagar Extension,257,3,2,0,16,4,5,Plot,Furnished,5808660
+Babugarh Road,57,3,2,1,19,2,3,Villa,Furnished,1778551
+Laxmi Nagar,230,4,2,2,19,0,1,Villa,Semi-Furnished,7565810
+Simbhaoli Road,389,4,1,1,15,0,4,Builder Floor,Unfurnished,9817401
+Kavi Nagar Extension,166,2,2,3,10,4,5,Villa,Semi-Furnished,3911722
+Vijay Nagar,326,2,2,3,17,2,3,Plot,Semi-Furnished,8977920
+Simbhaoli Road,338,4,2,0,7,2,4,Villa,Unfurnished,8481556
+Shastri Nagar,137,1,1,0,11,0,4,Plot,Unfurnished,4584603
+Pilkhuwa Road,210,2,2,3,17,3,4,Plot,Unfurnished,7190850
+Arya Nagar,274,1,1,0,12,0,5,Villa,Unfurnished,9039574
+Shastri Nagar,203,2,2,2,13,1,3,Plot,Furnished,4427323
+Laxmi Nagar,155,4,1,3,10,4,5,Builder Floor,Furnished,4342710
+Laxmi Nagar,172,1,1,1,8,0,2,Villa,Semi-Furnished,3912692
+Kavi Nagar Extension,227,4,2,3,14,2,5,Villa,Furnished,4743966
+Railway Road,133,4,2,1,2,0,4,Villa,Unfurnished,3906497
+Shastri Nagar,61,4,1,0,12,2,4,Plot,Unfurnished,2628471
+Shastri Nagar,222,5,5,2,18,3,5,Villa,Unfurnished,6800182
+Simbhaoli Road,260,5,1,2,2,3,5,Plot,Semi-Furnished,8425960
+Garh Road,84,5,5,1,14,0,4,Builder Floor,Furnished,2568420
+Garh Road,262,2,1,3,19,4,5,Builder Floor,Furnished,8044386
+Gandhi Ganj,269,4,2,3,17,0,3,Villa,Semi-Furnished,6595107
+Delhi Road,154,4,2,0,1,3,5,Villa,Furnished,5550334
+Freeganj Road,311,2,1,2,11,2,3,Villa,Semi-Furnished,6234519
+Freeganj Road,89,5,1,2,7,3,5,Villa,Furnished,3566085
+Kothi Gate,136,2,2,1,13,1,4,Villa,Furnished,4128792
+Delhi Road,90,4,1,2,13,0,4,Plot,Unfurnished,2698890
+Shastri Nagar,280,1,1,2,1,2,3,Plot,Semi-Furnished,8616640
+Garh Road,213,5,3,1,2,1,2,Villa,Semi-Furnished,7520679
+Babugarh Road,399,1,1,0,4,3,5,Builder Floor,Semi-Furnished,13563606
+Freeganj Road,50,1,1,3,19,3,4,Plot,Unfurnished,408900
+Railway Road,224,5,4,0,16,0,4,Builder Floor,Unfurnished,7846240
+Shastri Nagar,205,4,3,0,19,1,3,Independent House,Furnished,7230205
+Hapur Bypass,342,4,2,0,0,2,4,Villa,Semi-Furnished,11307608
+Meerut Road,294,3,1,0,16,2,4,Villa,Furnished,8169298
+Arya Nagar,230,2,2,2,10,1,2,Plot,Furnished,8041540
+Vijay Nagar,272,3,2,2,11,3,4,Plot,Furnished,7055904
+Freeganj Road,350,4,4,1,9,3,4,Independent House,Furnished,10928750
+Garh Road,390,1,1,2,7,4,5,Independent House,Unfurnished,10582410
+Kothi Gate,54,2,1,2,10,1,3,Builder Floor,Furnished,1817216
+Kothi Gate,75,1,1,3,7,0,4,Builder Floor,Semi-Furnished,1580400
+Delhi Road,196,5,5,0,1,1,5,Plot,Semi-Furnished,6464068
+Shastri Nagar,112,1,1,0,8,0,5,Plot,Unfurnished,4236768
+Delhi Road,373,2,1,1,13,3,5,Plot,Unfurnished,8744522
+Laxmi Nagar,131,5,1,2,18,4,5,Builder Floor,Furnished,3433950
+Railway Road,178,1,1,0,14,0,4,Builder Floor,Semi-Furnished,3915468
+Kavi Nagar Extension,192,5,3,3,0,0,1,Builder Floor,Unfurnished,7611904
+Meerut Road,316,3,2,1,9,1,3,Builder Floor,Furnished,10274640
+Simbhaoli Road,52,5,2,3,15,1,3,Independent House,Furnished,1351204
+Delhi Road,202,4,1,1,15,4,5,Independent House,Furnished,6425726
+Hapur Bypass,277,3,3,1,13,1,5,Independent House,Semi-Furnished,9140306
+Meerut Road,70,3,3,3,14,4,5,Plot,Semi-Furnished,1757940
+Freeganj Road,330,4,3,2,14,3,4,Independent House,Furnished,12152920
+Freeganj Road,324,2,2,0,3,4,5,Builder Floor,Semi-Furnished,7899640
+Pilkhuwa Road,206,4,3,3,15,1,5,Villa,Unfurnished,6203838
+Meerut Road,51,1,1,0,3,1,2,Plot,Unfurnished,2085614
+Hapur Bypass,312,4,2,2,12,0,2,Builder Floor,Semi-Furnished,9134432
+Railway Road,347,4,4,3,6,0,4,Independent House,Unfurnished,9346765
+Hapur Bypass,222,2,1,2,12,4,5,Independent House,Furnished,6334570
+Meerut Road,75,1,1,2,9,1,2,Plot,Furnished,1988900
+Freeganj Road,219,1,1,1,4,3,5,Independent House,Furnished,5870733
+Delhi Road,68,4,4,2,9,0,2,Builder Floor,Furnished,2050680
+Garh Road,213,2,1,2,17,4,5,Plot,Furnished,7402458
+Pilkhuwa Road,157,2,1,2,16,4,5,Independent House,Semi-Furnished,5254198
+Laxmi Nagar,209,3,2,0,13,4,5,Independent House,Unfurnished,5520268
+Pilkhuwa Road,303,1,1,1,2,4,5,Independent House,Semi-Furnished,9657529
+Hapur Bypass,237,3,2,1,9,4,5,Independent House,Furnished,7810551
+Railway Road,281,5,1,3,2,0,1,Independent House,Semi-Furnished,9359786
+Vijay Nagar,119,1,1,2,3,4,5,Villa,Semi-Furnished,3227776
+Laxmi Nagar,365,2,2,0,11,2,3,Independent House,Semi-Furnished,7783275
+Simbhaoli Road,99,3,2,3,2,1,4,Builder Floor,Unfurnished,4380899
+Arya Nagar,151,1,1,2,1,3,5,Independent House,Semi-Furnished,3269811
+Garh Road,349,2,2,0,12,4,5,Builder Floor,Semi-Furnished,10453574
+Vijay Nagar,352,1,1,2,15,1,3,Independent House,Furnished,6712464
+Kavi Nagar Extension,104,4,1,3,11,3,4,Builder Floor,Semi-Furnished,2504616
+Laxmi Nagar,79,5,4,2,7,4,5,Builder Floor,Semi-Furnished,2905845
+Kothi Gate,370,1,1,1,19,1,5,Plot,Unfurnished,8461150
+Pilkhuwa Road,210,5,4,1,19,1,2,Builder Floor,Furnished,7644230
+Simbhaoli Road,200,2,1,1,8,4,5,Villa,Unfurnished,4563400
+Vijay Nagar,298,1,1,0,10,2,4,Independent House,Furnished,11045754
+Garh Road,245,2,1,1,2,2,5,Villa,Semi-Furnished,6287065
+Shastri Nagar,365,5,4,1,11,0,2,Builder Floor,Unfurnished,8416490
+Gandhi Ganj,207,2,2,1,5,2,5,Plot,Semi-Furnished,5882451
+Garh Road,122,5,3,1,1,2,4,Builder Floor,Furnished,4289506
+Garh Road,325,2,2,1,1,0,5,Plot,Furnished,9542950
+Arya Nagar,319,1,1,1,15,4,5,Builder Floor,Furnished,10868605
+Shastri Nagar,74,5,5,1,7,4,5,Independent House,Semi-Furnished,2658138
+Vijay Nagar,74,4,1,3,11,3,4,Plot,Furnished,2376316
+Freeganj Road,383,4,2,0,5,4,5,Plot,Unfurnished,12932390
+Vijay Nagar,303,2,2,2,18,2,3,Builder Floor,Unfurnished,8633935
+Freeganj Road,315,1,1,1,10,1,2,Plot,Unfurnished,7599570
+Delhi Road,132,1,1,2,8,3,5,Independent House,Furnished,3637768
+Garh Road,312,4,1,3,3,0,5,Villa,Unfurnished,7321184
+Kavi Nagar Extension,357,5,4,3,5,1,4,Villa,Unfurnished,11352900
+Kavi Nagar Extension,165,5,3,2,13,4,5,Independent House,Semi-Furnished,4663100
+Babugarh Road,135,5,2,1,5,4,5,Villa,Unfurnished,4529055
+Arya Nagar,114,5,5,1,17,4,5,Independent House,Semi-Furnished,4259928
+Simbhaoli Road,387,5,5,3,3,0,3,Villa,Furnished,10445665
+Meerut Road,240,5,4,3,3,1,5,Villa,Semi-Furnished,6782560
+Hapur Bypass,301,2,2,2,8,4,5,Plot,Semi-Furnished,12002977
+Laxmi Nagar,91,5,2,0,16,0,1,Independent House,Semi-Furnished,2310381
+Delhi Road,178,2,2,3,0,1,3,Plot,Unfurnished,7282014
+Vijay Nagar,326,4,3,2,1,2,4,Plot,Furnished,13343706
+Delhi Road,128,1,1,3,12,2,3,Independent House,Furnished,3066624
+Babugarh Road,136,5,5,3,10,0,5,Plot,Semi-Furnished,3588696
+Laxmi Nagar,66,5,4,0,7,1,4,Plot,Unfurnished,3075434
+Simbhaoli Road,277,3,3,2,6,2,5,Builder Floor,Unfurnished,8323028
+Shastri Nagar,399,2,2,2,15,3,4,Plot,Semi-Furnished,14664370
+Meerut Road,185,1,1,0,1,1,4,Builder Floor,Semi-Furnished,6037440
+Simbhaoli Road,341,4,2,0,8,0,2,Independent House,Semi-Furnished,9576310
+Railway Road,315,5,4,3,7,1,3,Independent House,Furnished,7195700
+Vijay Nagar,230,4,2,2,9,0,2,Villa,Semi-Furnished,7763360
+Kavi Nagar Extension,202,3,2,3,17,3,5,Plot,Semi-Furnished,6676782
+Babugarh Road,262,4,4,2,13,0,5,Builder Floor,Semi-Furnished,8601596
+Simbhaoli Road,171,1,1,3,8,1,2,Plot,Semi-Furnished,4445215
+Arya Nagar,198,4,4,2,10,0,4,Builder Floor,Semi-Furnished,7455720
+Delhi Road,307,5,5,2,19,2,4,Independent House,Furnished,9834090
+Hapur Bypass,137,4,1,1,10,4,5,Plot,Semi-Furnished,3276188
+Freeganj Road,233,3,3,1,18,4,5,Plot,Furnished,5740758
+Gandhi Ganj,157,1,1,3,4,1,3,Villa,Semi-Furnished,3725139
+Simbhaoli Road,121,1,1,3,4,2,3,Independent House,Furnished,3148299
+Gandhi Ganj,153,3,2,1,10,0,2,Villa,Unfurnished,3378484
+Railway Road,351,3,3,1,8,4,5,Villa,Unfurnished,13864781
+Simbhaoli Road,135,2,2,1,11,0,1,Villa,Unfurnished,5232855
+Meerut Road,69,3,3,2,5,2,3,Independent House,Semi-Furnished,2908589
+Gandhi Ganj,181,5,4,3,9,2,4,Independent House,Semi-Furnished,4500868
+Delhi Road,279,5,5,1,5,3,5,Independent House,Furnished,6631320
+Meerut Road,69,1,1,2,6,3,4,Independent House,Furnished,1527434
+Meerut Road,265,5,2,2,19,3,5,Independent House,Semi-Furnished,8266325
+Babugarh Road,73,2,2,1,18,3,5,Plot,Semi-Furnished,1774242
+Kothi Gate,354,3,2,3,12,3,5,Independent House,Furnished,8882922
+Gandhi Ganj,166,4,4,2,15,4,5,Plot,Furnished,4277854
+Simbhaoli Road,232,1,1,2,0,1,4,Villa,Semi-Furnished,5223032
+Kavi Nagar Extension,162,3,3,2,10,0,4,Independent House,Unfurnished,4964536
+Freeganj Road,210,1,1,1,3,3,5,Plot,Semi-Furnished,8112740
+Garh Road,247,4,3,2,8,1,5,Plot,Unfurnished,7569916
+Kavi Nagar Extension,110,2,2,2,12,2,3,Plot,Furnished,3108470
+Laxmi Nagar,303,5,1,2,12,2,3,Independent House,Semi-Furnished,11863399
+Babugarh Road,84,2,1,0,4,3,4,Villa,Semi-Furnished,3176372
+Garh Road,241,5,4,1,3,1,4,Builder Floor,Furnished,6354199
+Delhi Road,362,4,2,0,13,3,5,Villa,Unfurnished,8940446
+Gandhi Ganj,106,4,4,0,3,4,5,Builder Floor,Semi-Furnished,4387666
+Freeganj Road,155,4,3,2,13,1,5,Plot,Unfurnished,3562170
+Garh Road,155,1,1,0,5,3,4,Plot,Semi-Furnished,3878785
+Laxmi Nagar,233,3,2,1,10,0,5,Independent House,Unfurnished,8145723
+Meerut Road,227,1,1,2,6,1,5,Villa,Unfurnished,6239429
+Hapur Bypass,252,4,4,2,15,4,5,Independent House,Unfurnished,9583916
+Pilkhuwa Road,203,4,4,3,13,0,5,Builder Floor,Semi-Furnished,8015235
+Simbhaoli Road,70,2,1,2,4,0,3,Villa,Furnished,2308610
+Babugarh Road,210,2,1,3,9,0,1,Plot,Semi-Furnished,6224590
+Shastri Nagar,110,5,2,3,10,0,1,Builder Floor,Semi-Furnished,2879630
+Shastri Nagar,247,2,1,1,4,1,3,Independent House,Semi-Furnished,8441896
+Railway Road,115,2,2,3,15,2,3,Villa,Unfurnished,2381250
+Vijay Nagar,135,4,4,2,7,3,4,Independent House,Unfurnished,5311215
+Meerut Road,148,3,3,0,6,4,5,Villa,Unfurnished,5157212
+Shastri Nagar,203,4,2,3,14,4,5,Builder Floor,Furnished,7840999
+Railway Road,165,4,2,2,8,1,5,Independent House,Furnished,4886845
+Arya Nagar,115,1,1,3,2,3,4,Villa,Semi-Furnished,4465515
+Pilkhuwa Road,276,4,3,0,17,2,5,Plot,Semi-Furnished,7361152
+Gandhi Ganj,356,3,2,3,8,3,4,Builder Floor,Furnished,9897084
+Railway Road,104,1,1,2,14,1,3,Builder Floor,Furnished,2304984
+Hapur Bypass,317,2,1,3,2,4,5,Villa,Furnished,6721786
+Laxmi Nagar,332,2,1,3,5,0,4,Builder Floor,Semi-Furnished,13291888
+Railway Road,57,5,4,3,10,4,5,Independent House,Semi-Furnished,1771499
+Railway Road,295,3,1,3,10,0,5,Independent House,Unfurnished,8980090
+Arya Nagar,70,5,2,3,5,1,4,Builder Floor,Semi-Furnished,2740660
+Delhi Road,177,3,1,0,2,0,4,Plot,Unfurnished,4723928
+Laxmi Nagar,203,5,3,0,8,3,5,Builder Floor,Unfurnished,4790935
+Babugarh Road,260,4,4,0,10,1,4,Builder Floor,Furnished,9055500
+Arya Nagar,262,2,2,2,11,3,5,Builder Floor,Furnished,7494374
+Pilkhuwa Road,326,4,4,1,0,4,5,Independent House,Furnished,13220274
+Kothi Gate,83,1,1,2,14,1,3,Villa,Semi-Furnished,1251134
+Kothi Gate,328,1,1,0,11,2,4,Independent House,Semi-Furnished,8817600
+Simbhaoli Road,396,3,1,3,15,1,3,Plot,Furnished,9582888
+Laxmi Nagar,297,4,3,2,5,0,4,Plot,Unfurnished,7627510
+Arya Nagar,392,3,2,0,14,4,5,Builder Floor,Unfurnished,10237040
+Gandhi Ganj,362,5,5,1,19,3,5,Plot,Semi-Furnished,7431904
+Vijay Nagar,301,5,2,2,0,2,5,Villa,Unfurnished,7758654
+Pilkhuwa Road,140,2,2,1,5,3,4,Plot,Semi-Furnished,4214340
+Arya Nagar,239,3,3,1,13,2,3,Independent House,Semi-Furnished,6754808
+Meerut Road,393,2,2,2,15,0,3,Villa,Furnished,13515826
+Simbhaoli Road,324,1,1,3,19,4,5,Plot,Furnished,10812264
+Laxmi Nagar,255,1,1,2,18,3,5,Plot,Unfurnished,8815835
+Shastri Nagar,366,4,4,0,8,0,4,Builder Floor,Furnished,12999184
+Vijay Nagar,191,3,1,2,8,2,4,Independent House,Semi-Furnished,4027640
+Arya Nagar,245,3,2,0,13,0,5,Independent House,Furnished,7122865
+Pilkhuwa Road,207,4,3,2,13,1,2,Builder Floor,Furnished,7818108
+Garh Road,374,4,1,2,11,0,5,Independent House,Furnished,8494456
+Arya Nagar,250,5,1,3,2,0,2,Builder Floor,Unfurnished,10177750
+Delhi Road,114,5,4,1,11,0,3,Independent House,Furnished,4643946
+Arya Nagar,281,5,3,1,19,0,5,Independent House,Unfurnished,9172946
+Meerut Road,181,4,4,3,11,4,5,Independent House,Furnished,5457370
+Babugarh Road,391,4,2,3,1,2,5,Builder Floor,Furnished,12473744
+Meerut Road,121,1,1,1,16,4,5,Villa,Furnished,2899441
+Hapur Bypass,332,3,2,0,12,0,3,Builder Floor,Furnished,9406556
+Laxmi Nagar,340,5,4,3,16,4,5,Plot,Semi-Furnished,10497920
+Arya Nagar,351,1,1,1,7,2,3,Independent House,Furnished,8518647
+Laxmi Nagar,344,5,5,0,9,2,4,Plot,Furnished,13685296
+Meerut Road,393,5,1,0,16,4,5,Villa,Furnished,9186338
+Shastri Nagar,108,1,1,2,12,2,4,Villa,Semi-Furnished,3489944
+Laxmi Nagar,382,5,1,3,11,2,3,Builder Floor,Furnished,11651768
+Simbhaoli Road,317,5,1,0,6,3,5,Plot,Semi-Furnished,12052404
+Meerut Road,57,1,1,2,13,4,5,Plot,Furnished,731382
+Delhi Road,226,4,2,1,1,3,5,Plot,Semi-Furnished,6116144
+Shastri Nagar,176,4,2,0,18,3,5,Plot,Unfurnished,5777520
+Delhi Road,162,1,1,3,18,0,2,Plot,Unfurnished,3358748
+Shastri Nagar,334,1,1,1,1,2,5,Villa,Furnished,9869734
+Vijay Nagar,259,3,2,0,6,3,4,Villa,Furnished,10540601
+Freeganj Road,204,5,2,0,5,2,4,Builder Floor,Furnished,6143556
+Kavi Nagar Extension,307,1,1,0,11,2,5,Independent House,Furnished,6359792
+Hapur Bypass,360,5,2,0,16,0,1,Plot,Unfurnished,10085960
+Hapur Bypass,333,5,3,1,3,2,3,Plot,Semi-Furnished,8215960
+Kothi Gate,171,4,4,1,2,2,5,Plot,Furnished,4655914
+Babugarh Road,72,3,2,2,3,3,4,Independent House,Furnished,2619720
+Railway Road,216,2,2,3,4,3,4,Builder Floor,Semi-Furnished,8621840
+Meerut Road,197,3,1,1,17,3,4,Plot,Unfurnished,5905462
+Kavi Nagar Extension,175,3,1,0,5,4,5,Villa,Furnished,6248025
+Pilkhuwa Road,225,4,4,3,5,0,4,Villa,Furnished,6342400
+Delhi Road,374,3,3,2,12,3,5,Independent House,Furnished,10984380
+Kavi Nagar Extension,283,3,2,1,14,4,5,Builder Floor,Semi-Furnished,6173827
+Hapur Bypass,174,5,2,3,4,2,5,Villa,Furnished,4416590
+Delhi Road,250,1,1,0,12,2,5,Independent House,Semi-Furnished,8343250
+Pilkhuwa Road,158,4,1,0,8,0,5,Independent House,Unfurnished,5284254
+Pilkhuwa Road,391,5,3,2,18,2,4,Builder Floor,Semi-Furnished,11661479
+Shastri Nagar,158,3,2,0,13,3,4,Villa,Semi-Furnished,4451578
+Shastri Nagar,188,4,3,0,2,4,5,Plot,Unfurnished,6957204
+Simbhaoli Road,322,3,2,3,18,4,5,Plot,Unfurnished,11360264
+Hapur Bypass,57,4,1,0,4,3,5,Plot,Unfurnished,2323566
+Kothi Gate,113,3,1,1,10,4,5,Plot,Unfurnished,2770190
+Simbhaoli Road,189,5,3,2,4,0,4,Villa,Furnished,4950440
+Freeganj Road,95,2,2,1,16,2,5,Independent House,Unfurnished,1952295
+Kavi Nagar Extension,353,4,4,3,5,1,5,Villa,Unfurnished,10175957
+Hapur Bypass,124,1,1,1,14,2,5,Plot,Semi-Furnished,3590884
+Railway Road,298,3,2,0,18,4,5,Villa,Unfurnished,10222082
+Hapur Bypass,268,2,2,2,14,3,4,Villa,Semi-Furnished,5157552
+Shastri Nagar,212,1,1,3,19,4,5,Plot,Furnished,5189392
+Meerut Road,386,1,1,0,7,2,5,Independent House,Semi-Furnished,13809690
+Gandhi Ganj,372,3,1,0,14,4,5,Plot,Unfurnished,14464172
+Kothi Gate,163,5,3,2,9,1,5,Independent House,Unfurnished,5833319
+Arya Nagar,326,4,2,0,2,0,3,Builder Floor,Semi-Furnished,11231756
+Pilkhuwa Road,313,2,1,3,6,2,3,Builder Floor,Semi-Furnished,7412619
+Kavi Nagar Extension,74,5,1,2,4,4,5,Builder Floor,Semi-Furnished,3016966
+Laxmi Nagar,185,5,4,3,8,0,4,Independent House,Unfurnished,6230105
+Kavi Nagar Extension,240,1,1,1,13,3,5,Villa,Unfurnished,4833360
+Delhi Road,124,3,3,1,12,4,5,Villa,Semi-Furnished,3745668
+Kothi Gate,339,5,5,2,5,1,5,Villa,Furnished,9488064
+Delhi Road,211,2,2,3,5,3,5,Villa,Furnished,7057507
+Babugarh Road,62,4,2,2,2,2,4,Builder Floor,Furnished,2112360
+Babugarh Road,280,5,1,0,8,4,5,Independent House,Unfurnished,6991840
+Babugarh Road,70,3,1,2,16,1,3,Villa,Unfurnished,1311230
+Garh Road,101,4,4,1,13,1,5,Plot,Furnished,3809937
+Pilkhuwa Road,102,4,1,2,7,1,5,Villa,Unfurnished,3106692
+Pilkhuwa Road,339,2,2,1,10,0,4,Plot,Semi-Furnished,12076880
+Arya Nagar,128,1,1,2,16,1,2,Plot,Semi-Furnished,4288704
+Gandhi Ganj,145,1,1,2,17,0,5,Independent House,Semi-Furnished,4464875
+Kothi Gate,369,5,4,2,0,2,5,Builder Floor,Unfurnished,10517617
+Simbhaoli Road,149,2,1,2,12,2,3,Independent House,Semi-Furnished,4029961
+Vijay Nagar,161,4,3,0,16,1,4,Villa,Furnished,4244121
+Garh Road,365,3,1,3,9,4,5,Independent House,Unfurnished,11895700
+Gandhi Ganj,284,5,5,0,11,2,3,Plot,Furnished,9741912
+Gandhi Ganj,330,1,1,0,19,2,5,Independent House,Unfurnished,6284280
+Vijay Nagar,347,1,1,0,15,3,5,Builder Floor,Unfurnished,6868166
+Kothi Gate,352,2,2,1,2,3,4,Villa,Semi-Furnished,10537216
+Garh Road,62,2,1,0,3,1,5,Builder Floor,Furnished,2706502
+Arya Nagar,359,1,1,3,12,4,5,Plot,Furnished,13298004
+Railway Road,211,1,1,3,7,3,5,Villa,Semi-Furnished,7522593
+Simbhaoli Road,198,4,4,1,0,3,4,Independent House,Unfurnished,7039970
+Simbhaoli Road,284,3,1,0,16,1,2,Independent House,Furnished,6076400
+Pilkhuwa Road,123,5,5,1,1,0,4,Plot,Furnished,3962639
+Laxmi Nagar,187,3,1,2,14,0,4,Villa,Semi-Furnished,4248311
+Hapur Bypass,73,5,3,0,3,1,5,Builder Floor,Unfurnished,3419089
+Shastri Nagar,279,1,1,3,15,0,4,Independent House,Furnished,5795855
+Pilkhuwa Road,332,5,2,2,14,0,2,Independent House,Unfurnished,12083676
+Freeganj Road,273,5,1,0,6,3,4,Plot,Semi-Furnished,7840315
+Simbhaoli Road,65,3,1,3,12,3,4,Builder Floor,Semi-Furnished,2508415
+Pilkhuwa Road,380,1,1,2,7,4,5,Plot,Unfurnished,11811260
+Delhi Road,108,4,4,2,8,4,5,Villa,Furnished,4683280
+Simbhaoli Road,128,4,3,3,3,1,5,Villa,Furnished,3290640
+Laxmi Nagar,182,4,2,2,14,3,5,Independent House,Semi-Furnished,6764112
+Simbhaoli Road,66,3,2,3,6,1,2,Independent House,Furnished,1621650
+Garh Road,74,2,1,0,18,2,3,Villa,Unfurnished,1970046
+Pilkhuwa Road,370,1,1,2,19,3,4,Plot,Semi-Furnished,13676300
+Railway Road,208,1,1,1,17,1,2,Villa,Furnished,6888128
+Laxmi Nagar,54,4,4,0,10,0,2,Builder Floor,Furnished,2369820
+Meerut Road,275,5,2,0,13,4,5,Villa,Furnished,9105175
+Vijay Nagar,135,2,2,1,13,4,5,Builder Floor,Furnished,4000610
+Meerut Road,271,3,2,1,7,3,4,Villa,Furnished,8057781
+Hapur Bypass,210,1,1,3,10,4,5,Plot,Furnished,6920850
+Gandhi Ganj,60,4,4,1,8,3,4,Independent House,Unfurnished,2747620
+Meerut Road,369,3,2,1,11,2,3,Plot,Unfurnished,10081634
+Delhi Road,360,2,2,1,3,3,4,Plot,Unfurnished,8761120
+Kavi Nagar Extension,174,2,1,2,10,4,5,Villa,Semi-Furnished,3883730
+Arya Nagar,296,5,2,3,3,0,3,Plot,Furnished,10462304
+Babugarh Road,133,2,2,0,11,0,5,Independent House,Furnished,4906660
+Delhi Road,205,2,1,2,9,3,5,Independent House,Unfurnished,7894365
+Hapur Bypass,104,3,2,0,2,3,4,Independent House,Unfurnished,2704384
+Freeganj Road,59,4,1,1,1,2,3,Plot,Semi-Furnished,2448728
+Delhi Road,142,1,1,2,19,3,4,Independent House,Unfurnished,3484582
+Delhi Road,212,3,1,2,13,0,2,Independent House,Unfurnished,6940064
+Kavi Nagar Extension,165,5,4,0,17,3,4,Independent House,Unfurnished,6509925
+Freeganj Road,306,2,2,0,19,3,4,Villa,Unfurnished,9426212
+Railway Road,252,1,1,0,4,1,2,Builder Floor,Unfurnished,7709436
+Hapur Bypass,286,1,1,0,3,4,5,Plot,Semi-Furnished,6591106
+Meerut Road,198,3,2,2,18,4,5,Villa,Unfurnished,3798402
+Freeganj Road,248,2,2,0,13,3,4,Plot,Unfurnished,6958120
+Railway Road,133,2,2,0,7,0,3,Plot,Unfurnished,4970734
+Arya Nagar,95,4,2,0,3,1,4,Builder Floor,Furnished,3714510
+Meerut Road,244,3,3,0,3,1,2,Villa,Unfurnished,10207804
+Simbhaoli Road,73,2,2,2,1,0,1,Independent House,Semi-Furnished,2292822
+Babugarh Road,230,4,3,0,4,4,5,Builder Floor,Unfurnished,6298480
+Railway Road,362,5,1,3,5,4,5,Independent House,Semi-Furnished,11561130
+Garh Road,217,5,5,3,2,2,4,Plot,Unfurnished,7448843
+Delhi Road,381,3,3,3,14,0,5,Plot,Furnished,14466773
+Meerut Road,355,5,1,3,18,0,3,Independent House,Unfurnished,9760970
+Simbhaoli Road,277,5,5,3,16,2,5,Independent House,Semi-Furnished,8513878
+Meerut Road,251,3,2,2,8,0,3,Plot,Furnished,6111301
+Simbhaoli Road,59,1,1,0,3,3,4,Builder Floor,Semi-Furnished,1238968
+Babugarh Road,172,5,5,1,16,0,1,Plot,Semi-Furnished,4088920
+Garh Road,341,1,1,0,1,2,4,Builder Floor,Semi-Furnished,13604496
+Pilkhuwa Road,216,5,1,0,1,2,3,Independent House,Semi-Furnished,9354128
+Kavi Nagar Extension,122,5,4,3,2,0,1,Villa,Semi-Furnished,5571014
+Meerut Road,224,5,1,0,2,1,4,Villa,Unfurnished,9760320
+Freeganj Road,81,4,2,0,18,2,5,Builder Floor,Semi-Furnished,3052439
+Pilkhuwa Road,127,2,1,1,1,4,5,Plot,Furnished,4546842
+Delhi Road,265,3,1,2,5,0,1,Villa,Furnished,7799680
+Meerut Road,217,3,1,0,4,2,4,Independent House,Unfurnished,4956783
+Railway Road,62,3,3,3,15,2,5,Plot,Semi-Furnished,1181822
+Pilkhuwa Road,138,4,3,3,11,1,5,Builder Floor,Semi-Furnished,5697826
+Babugarh Road,362,5,3,1,15,2,5,Independent House,Semi-Furnished,12384602
+Garh Road,377,4,1,0,11,4,5,Independent House,Unfurnished,14019171
+Meerut Road,146,5,1,3,13,4,5,Builder Floor,Unfurnished,4184106
+Garh Road,108,1,1,1,17,0,3,Plot,Furnished,2833324
+Kothi Gate,96,4,1,0,19,2,4,Independent House,Furnished,2236080
+Railway Road,78,2,1,1,8,0,2,Villa,Semi-Furnished,2011464
+Laxmi Nagar,251,1,1,1,5,1,2,Independent House,Furnished,5468988
+Arya Nagar,131,2,2,0,16,2,3,Plot,Furnished,3158222
+Kavi Nagar Extension,315,2,1,2,15,1,5,Plot,Semi-Furnished,9359875
+Arya Nagar,215,2,1,2,6,2,3,Independent House,Semi-Furnished,4726370
+Simbhaoli Road,279,4,3,0,19,3,4,Plot,Furnished,6421566
+Gandhi Ganj,371,5,2,1,2,2,4,Builder Floor,Furnished,12905560
+Pilkhuwa Road,97,1,1,2,3,2,4,Builder Floor,Semi-Furnished,2729043
+Shastri Nagar,114,3,2,0,9,4,5,Independent House,Furnished,4189932
+Delhi Road,364,3,1,2,3,1,3,Plot,Semi-Furnished,10814900
+Arya Nagar,350,4,3,0,8,3,4,Villa,Furnished,8072000
+Arya Nagar,187,4,1,0,13,1,5,Villa,Unfurnished,5454629
+Laxmi Nagar,215,1,1,1,17,2,4,Independent House,Unfurnished,6440055
+Gandhi Ganj,293,3,1,2,14,3,4,Villa,Semi-Furnished,6470818
+Vijay Nagar,122,3,2,2,16,2,3,Villa,Furnished,3509898
+Delhi Road,261,5,1,0,14,3,4,Builder Floor,Semi-Furnished,6856059
+Kavi Nagar Extension,112,1,1,0,13,4,5,Independent House,Semi-Furnished,3887760
+Laxmi Nagar,339,3,1,1,2,1,2,Builder Floor,Unfurnished,7805789
+Hapur Bypass,387,2,2,1,18,3,4,Plot,Furnished,11325946
+Babugarh Road,126,3,2,1,0,2,4,Plot,Semi-Furnished,3206940
+Arya Nagar,258,1,1,0,5,2,3,Villa,Semi-Furnished,9412924
+Freeganj Road,333,1,1,1,4,0,2,Villa,Semi-Furnished,10940715
+Babugarh Road,236,5,2,0,10,2,4,Villa,Furnished,9568300
+Kavi Nagar Extension,217,4,2,3,10,4,5,Plot,Unfurnished,7770659
+Gandhi Ganj,67,2,1,1,10,1,2,Villa,Semi-Furnished,2145572
+Simbhaoli Road,309,5,3,1,3,3,4,Villa,Furnished,9284464
+Hapur Bypass,360,3,2,1,17,0,1,Builder Floor,Semi-Furnished,7539320
+Pilkhuwa Road,87,5,5,0,16,1,5,Plot,Unfurnished,3545324
+Railway Road,291,3,1,2,19,2,5,Plot,Furnished,9065596
+Vijay Nagar,178,4,4,3,9,0,5,Independent House,Semi-Furnished,3920680
+Freeganj Road,368,2,2,3,12,4,5,Plot,Furnished,9412528
+Freeganj Road,226,2,2,2,15,0,1,Builder Floor,Furnished,5745672
+Delhi Road,186,3,1,2,6,0,5,Independent House,Unfurnished,4035996
+Garh Road,125,3,2,0,8,4,5,Independent House,Unfurnished,2912500
+Railway Road,136,5,4,2,15,4,5,Builder Floor,Furnished,3720720
+Freeganj Road,296,5,2,0,5,3,5,Plot,Unfurnished,10789432
+Vijay Nagar,199,1,1,1,16,2,4,Builder Floor,Semi-Furnished,5109310
+Freeganj Road,171,2,1,3,18,3,5,Independent House,Unfurnished,5236195
+Kavi Nagar Extension,77,3,2,2,14,2,4,Independent House,Unfurnished,2377398
+Simbhaoli Road,201,3,1,0,14,0,1,Builder Floor,Furnished,7216802
+Kavi Nagar Extension,244,2,2,2,9,0,5,Villa,Unfurnished,6200792
+Laxmi Nagar,190,1,1,1,15,4,5,Independent House,Unfurnished,5301810
+Shastri Nagar,294,5,5,2,16,4,5,Plot,Furnished,10728140
+Hapur Bypass,56,2,1,2,0,0,1,Plot,Unfurnished,1873584
+Delhi Road,74,3,1,2,14,4,5,Plot,Semi-Furnished,1653800
+Kavi Nagar Extension,331,4,4,0,8,0,5,Independent House,Semi-Furnished,7186824
+Meerut Road,135,1,1,2,11,2,4,Plot,Furnished,2865160
+Hapur Bypass,248,5,3,2,1,0,5,Villa,Unfurnished,7148512
+Shastri Nagar,188,5,1,3,17,2,4,Villa,Furnished,6165812
+Simbhaoli Road,185,4,3,0,7,3,4,Plot,Unfurnished,6196840
+Simbhaoli Road,98,5,2,1,12,4,5,Independent House,Unfurnished,2593436
+Meerut Road,69,5,3,1,2,2,5,Builder Floor,Furnished,3246345
+Kothi Gate,255,3,3,1,3,2,5,Builder Floor,Unfurnished,8318790
+Freeganj Road,145,3,2,2,1,0,1,Plot,Semi-Furnished,5579035
+Laxmi Nagar,208,4,2,0,14,0,4,Independent House,Furnished,7719664
+Babugarh Road,363,5,5,1,6,1,5,Builder Floor,Furnished,12177334
+Arya Nagar,260,4,1,2,6,3,4,Independent House,Furnished,6464920
+Meerut Road,269,5,2,0,15,2,3,Villa,Furnished,9916515
+Shastri Nagar,395,4,2,0,9,3,5,Independent House,Furnished,9638820
+Kothi Gate,318,3,2,3,7,2,3,Plot,Semi-Furnished,8964472
+Shastri Nagar,143,4,2,3,10,0,2,Villa,Semi-Furnished,5869135
+Meerut Road,227,4,3,1,17,0,1,Plot,Furnished,5473818
+Garh Road,244,3,2,0,0,4,5,Builder Floor,Semi-Furnished,6517244
+Meerut Road,159,5,3,3,6,1,4,Independent House,Furnished,6391564
+Railway Road,256,4,4,2,5,3,5,Builder Floor,Unfurnished,5721968
+Hapur Bypass,210,4,4,0,4,4,5,Villa,Unfurnished,8167140
+Freeganj Road,128,5,4,3,13,1,5,Independent House,Semi-Furnished,3179184
+Freeganj Road,236,5,5,1,17,1,5,Plot,Unfurnished,5431208
+Garh Road,231,5,3,3,11,2,3,Builder Floor,Furnished,7219686
+Simbhaoli Road,110,2,1,0,2,4,5,Plot,Semi-Furnished,4613320
+Babugarh Road,340,4,3,2,18,2,4,Builder Floor,Semi-Furnished,11573560
+Arya Nagar,353,5,3,1,5,1,2,Plot,Unfurnished,13943375
+Kavi Nagar Extension,232,3,2,2,2,4,5,Builder Floor,Furnished,7640032
+Freeganj Road,117,5,5,2,18,2,4,Plot,Unfurnished,2506924
+Railway Road,202,4,4,2,10,1,4,Independent House,Semi-Furnished,8172142
+Babugarh Road,246,3,1,2,11,1,5,Villa,Furnished,6257072
+Gandhi Ganj,219,4,2,0,13,2,5,Villa,Furnished,8766555
+Hapur Bypass,204,2,2,2,10,4,5,Independent House,Semi-Furnished,4738064
+Gandhi Ganj,392,1,1,2,8,1,3,Builder Floor,Semi-Furnished,11585872
+Pilkhuwa Road,370,4,1,2,7,3,5,Villa,Unfurnished,11528170
+Simbhaoli Road,291,1,1,0,13,1,5,Independent House,Furnished,6687939
+Laxmi Nagar,161,1,1,2,10,3,5,Builder Floor,Semi-Furnished,3103701
+Arya Nagar,69,3,2,1,12,4,5,Plot,Furnished,2638629
+Laxmi Nagar,342,1,1,1,1,3,5,Builder Floor,Furnished,10342284
+Hapur Bypass,348,4,4,0,7,1,3,Independent House,Semi-Furnished,13942308
+Arya Nagar,165,3,3,3,12,2,5,Builder Floor,Unfurnished,4518030
+Babugarh Road,137,1,1,2,18,3,4,Independent House,Semi-Furnished,4456817
+Kavi Nagar Extension,288,1,1,3,14,4,5,Plot,Semi-Furnished,6355840
+Arya Nagar,325,4,3,0,11,0,1,Plot,Furnished,7768875
+Laxmi Nagar,347,5,3,1,10,1,3,Villa,Unfurnished,13504866
+Shastri Nagar,107,2,1,3,17,1,5,Builder Floor,Semi-Furnished,3065057
+Freeganj Road,320,5,4,2,4,0,4,Plot,Unfurnished,10494400
+Railway Road,159,5,4,1,6,3,4,Plot,Semi-Furnished,6649780
+Shastri Nagar,85,5,2,1,3,1,5,Builder Floor,Unfurnished,3608505
+Freeganj Road,393,2,1,2,10,3,5,Builder Floor,Unfurnished,11821655
+Railway Road,239,5,2,3,13,2,4,Builder Floor,Semi-Furnished,6435418
+Freeganj Road,194,1,1,2,9,0,2,Independent House,Unfurnished,5262898
+Meerut Road,314,5,1,3,17,2,3,Builder Floor,Unfurnished,12250618
+Shastri Nagar,320,5,1,3,8,3,5,Plot,Unfurnished,9279680
+Pilkhuwa Road,131,5,1,2,11,3,5,Plot,Furnished,5377958
+Hapur Bypass,376,1,1,2,15,1,5,Plot,Furnished,9059808
+Vijay Nagar,344,4,3,0,7,4,5,Villa,Unfurnished,8029008
+Delhi Road,278,3,1,0,13,3,5,Independent House,Semi-Furnished,10502324
+Shastri Nagar,121,1,1,0,5,3,4,Builder Floor,Furnished,3573829
+Vijay Nagar,180,5,2,3,5,0,3,Villa,Furnished,6884220
+Babugarh Road,236,4,1,2,4,3,4,Independent House,Unfurnished,6457520
+Vijay Nagar,299,4,3,2,3,4,5,Independent House,Semi-Furnished,11388884
+Hapur Bypass,176,2,2,0,19,3,4,Independent House,Semi-Furnished,3029136
+Hapur Bypass,322,2,2,1,12,2,4,Builder Floor,Unfurnished,6605148
+Arya Nagar,236,5,5,0,15,1,3,Independent House,Semi-Furnished,5140156
+Kavi Nagar Extension,335,5,2,0,13,1,2,Independent House,Unfurnished,12073660
+Shastri Nagar,161,1,1,3,18,3,4,Plot,Furnished,5602345
+Railway Road,102,4,2,0,19,0,1,Builder Floor,Semi-Furnished,2834418
+Babugarh Road,276,3,2,3,8,3,4,Villa,Furnished,11154992
+Gandhi Ganj,121,3,2,3,0,2,4,Villa,Unfurnished,4963381
+Garh Road,188,3,3,0,0,1,2,Builder Floor,Furnished,6228720
+Kothi Gate,390,2,2,0,12,2,4,Villa,Unfurnished,9874090
+Railway Road,282,1,1,2,18,2,3,Plot,Semi-Furnished,8434262
+Meerut Road,388,4,3,0,5,2,4,Builder Floor,Furnished,8717788
+Garh Road,87,5,3,3,3,1,2,Independent House,Semi-Furnished,3628693
+Babugarh Road,107,5,4,1,16,0,4,Villa,Furnished,2914162
+Shastri Nagar,237,3,2,3,2,2,3,Plot,Unfurnished,5704757
+Babugarh Road,259,1,1,2,11,1,5,Villa,Unfurnished,7874545
+Babugarh Road,186,4,3,3,13,4,5,Plot,Unfurnished,5298108
+Kothi Gate,339,3,2,3,9,0,2,Villa,Furnished,10017273
+Delhi Road,59,3,3,3,4,2,4,Plot,Unfurnished,2744542
+Kavi Nagar Extension,162,3,1,0,11,1,4,Villa,Furnished,4311410
+Gandhi Ganj,389,4,3,3,15,0,1,Villa,Unfurnished,9683585
+Meerut Road,198,1,1,3,16,3,5,Builder Floor,Semi-Furnished,6088440
+Delhi Road,343,5,2,1,13,3,4,Villa,Furnished,10357025
+Pilkhuwa Road,119,1,1,2,15,3,4,Builder Floor,Unfurnished,2860778
+Shastri Nagar,140,2,1,3,2,2,4,Independent House,Unfurnished,4552780
+Railway Road,394,4,1,3,10,4,5,Villa,Furnished,8988488
+Vijay Nagar,286,5,5,3,12,4,5,Plot,Unfurnished,9397560
+Garh Road,122,3,2,0,7,3,4,Independent House,Semi-Furnished,4442530
+Kavi Nagar Extension,316,4,4,3,6,1,2,Builder Floor,Furnished,12278584
+Hapur Bypass,269,2,2,0,6,1,2,Plot,Unfurnished,10349707
+Gandhi Ganj,211,4,1,3,0,4,5,Independent House,Semi-Furnished,7203850
+Meerut Road,370,1,1,2,9,1,2,Villa,Unfurnished,9167980
+Shastri Nagar,258,3,1,3,7,0,1,Plot,Furnished,7692784
+Vijay Nagar,215,1,1,3,13,4,5,Plot,Unfurnished,7979075
+Simbhaoli Road,212,5,5,2,12,0,5,Independent House,Unfurnished,4855180
+Kavi Nagar Extension,212,4,2,0,16,0,2,Builder Floor,Furnished,6628816
+Vijay Nagar,69,3,2,1,3,0,1,Builder Floor,Furnished,2148849
+Pilkhuwa Road,62,4,3,2,18,2,5,Plot,Furnished,2217994
+Pilkhuwa Road,386,3,3,3,3,2,4,Villa,Unfurnished,13079534
+Pilkhuwa Road,93,5,5,0,6,2,4,Plot,Semi-Furnished,3042112
+Hapur Bypass,337,4,1,1,13,4,5,Builder Floor,Furnished,9256751
+Simbhaoli Road,288,4,4,2,15,3,5,Independent House,Furnished,9755312
+Meerut Road,395,4,4,0,1,2,4,Plot,Semi-Furnished,10580365
+Hapur Bypass,320,3,3,0,6,4,5,Independent House,Unfurnished,12250400
+Babugarh Road,313,4,3,2,9,4,5,Builder Floor,Unfurnished,8838247
+Hapur Bypass,335,2,2,1,17,4,5,Villa,Semi-Furnished,11691740
+Railway Road,270,4,2,2,12,4,5,Villa,Semi-Furnished,8459030
+Garh Road,171,5,4,3,5,1,3,Builder Floor,Furnished,7219101
+Vijay Nagar,145,1,1,0,9,3,5,Builder Floor,Unfurnished,3037295
+Gandhi Ganj,372,2,1,2,16,3,4,Builder Floor,Furnished,11164736
+Garh Road,346,3,1,3,5,2,4,Villa,Unfurnished,13359600
+Shastri Nagar,199,3,1,2,9,2,3,Villa,Unfurnished,4552477
+Meerut Road,136,1,1,1,16,2,3,Plot,Semi-Furnished,2366704
+Meerut Road,251,3,1,2,4,3,5,Independent House,Semi-Furnished,8943538
+Kavi Nagar Extension,79,1,1,3,1,4,5,Independent House,Furnished,1920785
+Shastri Nagar,74,2,2,1,13,1,3,Independent House,Unfurnished,2166988
+Kavi Nagar Extension,176,1,1,0,13,2,4,Villa,Furnished,4828768
+Delhi Road,148,3,3,0,12,0,2,Independent House,Furnished,5206492
+Freeganj Road,170,2,2,1,10,0,3,Builder Floor,Unfurnished,6349290
+Kavi Nagar Extension,236,2,2,1,11,2,5,Villa,Unfurnished,6559480
+Pilkhuwa Road,353,2,2,3,12,3,4,Builder Floor,Semi-Furnished,8934581
+Hapur Bypass,179,2,1,2,14,3,5,Independent House,Unfurnished,6237796
+Gandhi Ganj,303,3,1,2,16,3,4,Independent House,Furnished,7664668
+Simbhaoli Road,139,4,4,1,14,3,4,Builder Floor,Semi-Furnished,5292067
+Arya Nagar,120,5,4,3,4,4,5,Builder Floor,Unfurnished,3677840
+Garh Road,277,4,3,0,9,4,5,Builder Floor,Semi-Furnished,9759967
+Kavi Nagar Extension,330,4,2,1,15,1,2,Independent House,Semi-Furnished,9666530
+Laxmi Nagar,79,5,3,2,1,4,5,Plot,Semi-Furnished,3242659
+Kothi Gate,270,4,2,3,19,3,4,Villa,Furnished,9091020
+Delhi Road,87,4,3,2,19,0,4,Villa,Semi-Furnished,1861527
+Meerut Road,387,5,4,2,10,4,5,Villa,Unfurnished,8347199
+Meerut Road,373,5,4,1,12,1,2,Independent House,Unfurnished,13051414
+Vijay Nagar,184,4,3,1,2,0,5,Villa,Furnished,4833008
+Freeganj Road,388,5,2,2,19,1,3,Builder Floor,Semi-Furnished,8726844
+Hapur Bypass,322,5,3,3,0,2,5,Independent House,Semi-Furnished,13809804
+Meerut Road,355,4,3,0,0,2,3,Builder Floor,Semi-Furnished,9552170
+Pilkhuwa Road,230,2,1,1,9,3,5,Villa,Unfurnished,7027100
+Arya Nagar,345,2,1,2,12,2,5,Builder Floor,Unfurnished,7575265
+Simbhaoli Road,332,1,1,1,1,0,2,Builder Floor,Furnished,11994100
+Railway Road,231,4,2,3,9,3,5,Plot,Furnished,7994945
+Laxmi Nagar,274,5,1,1,9,4,5,Villa,Semi-Furnished,10866922
+Laxmi Nagar,257,5,1,3,17,2,5,Plot,Furnished,7963057
+Simbhaoli Road,209,2,1,1,11,0,4,Independent House,Furnished,7847385
+Arya Nagar,250,2,2,0,1,3,4,Villa,Unfurnished,8786500
+Shastri Nagar,173,4,4,1,1,0,2,Villa,Semi-Furnished,5499196
+Freeganj Road,64,4,1,3,19,4,5,Villa,Unfurnished,1972112
+Babugarh Road,329,5,2,1,13,4,5,Villa,Semi-Furnished,8239749
+Garh Road,211,2,2,1,5,3,4,Villa,Furnished,7267241
+Hapur Bypass,71,5,4,3,0,4,5,Villa,Unfurnished,2966487
+Laxmi Nagar,343,3,3,3,12,2,5,Builder Floor,Unfurnished,8595580
+Railway Road,198,3,2,2,13,3,5,Villa,Furnished,6612304
+Railway Road,136,5,4,0,8,3,5,Plot,Semi-Furnished,4399840
+Laxmi Nagar,158,3,3,3,13,2,3,Builder Floor,Furnished,3310344
+Garh Road,336,3,1,3,18,4,5,Independent House,Semi-Furnished,9958080
+Meerut Road,182,1,1,0,5,0,2,Plot,Unfurnished,6183864
+Hapur Bypass,374,4,3,0,7,0,4,Builder Floor,Unfurnished,13228084
+Gandhi Ganj,145,3,3,2,10,4,5,Plot,Semi-Furnished,5086405
+Railway Road,267,3,2,2,0,1,2,Independent House,Furnished,10070490
+Kavi Nagar Extension,178,1,1,1,19,4,5,Villa,Furnished,3342932
+Babugarh Road,210,3,3,0,11,3,5,Villa,Semi-Furnished,8035880
+Pilkhuwa Road,325,1,1,2,3,2,4,Plot,Furnished,9135050
+Laxmi Nagar,151,3,1,2,12,4,5,Independent House,Furnished,3975981
+Babugarh Road,135,4,4,2,12,2,5,Villa,Semi-Furnished,3174725
+Babugarh Road,249,2,2,3,18,1,4,Plot,Semi-Furnished,4554202
+Railway Road,126,4,1,3,18,2,5,Villa,Semi-Furnished,3964004
+Delhi Road,316,2,2,2,10,1,4,Builder Floor,Semi-Furnished,12454680
+Gandhi Ganj,279,1,1,1,0,2,5,Plot,Semi-Furnished,10899650
+Shastri Nagar,312,3,3,0,3,0,4,Independent House,Semi-Furnished,9133896
+Railway Road,189,3,3,0,4,4,5,Villa,Furnished,4293211
+Arya Nagar,257,1,1,0,19,3,4,Independent House,Furnished,5828943
+Delhi Road,354,2,1,3,8,4,5,Villa,Furnished,10259628
+Laxmi Nagar,77,3,3,0,18,0,4,Villa,Unfurnished,2684905
+Kavi Nagar Extension,84,4,1,2,15,3,4,Builder Floor,Unfurnished,2940776
+Hapur Bypass,159,1,1,2,5,1,4,Independent House,Semi-Furnished,5600860
+Arya Nagar,113,4,2,1,9,0,2,Plot,Semi-Furnished,4596088
+Railway Road,379,2,1,2,15,4,5,Independent House,Furnished,11614651
+Arya Nagar,279,3,1,0,11,4,5,Villa,Furnished,5967869
+Railway Road,53,1,1,3,10,1,5,Plot,Unfurnished,1306430
+Babugarh Road,227,1,1,0,2,4,5,Independent House,Furnished,8567781
+Kavi Nagar Extension,341,2,2,2,10,2,4,Builder Floor,Furnished,12181797
+Gandhi Ganj,205,4,1,3,2,2,5,Builder Floor,Unfurnished,7115270
+Garh Road,309,5,1,2,15,1,5,Plot,Furnished,11327032
+Arya Nagar,181,3,2,3,11,3,5,Builder Floor,Semi-Furnished,6466269
+Kavi Nagar Extension,230,5,1,2,12,3,5,Plot,Furnished,7743210
+Kothi Gate,135,3,1,1,4,0,2,Independent House,Unfurnished,3380800
+Pilkhuwa Road,278,4,2,1,6,0,5,Plot,Semi-Furnished,8832772
+Pilkhuwa Road,78,1,1,2,14,1,5,Plot,Semi-Furnished,1497268
+Delhi Road,221,2,1,2,10,1,5,Plot,Unfurnished,4413041
+Simbhaoli Road,235,1,1,3,10,3,4,Builder Floor,Semi-Furnished,7457115
+Freeganj Road,245,1,1,1,1,3,4,Plot,Unfurnished,9598425
+Delhi Road,74,1,1,0,15,3,5,Independent House,Furnished,1852484
+Freeganj Road,168,1,1,0,12,4,5,Villa,Unfurnished,6178544
+Pilkhuwa Road,246,2,1,3,9,2,5,Villa,Furnished,6870964
+Railway Road,172,3,3,1,14,2,4,Builder Floor,Unfurnished,4288580
+Arya Nagar,160,5,5,2,2,1,5,Independent House,Furnished,4783200
+Shastri Nagar,228,5,3,0,7,4,5,Villa,Furnished,9758828
+Laxmi Nagar,58,4,2,0,6,1,2,Independent House,Semi-Furnished,1765154
+Pilkhuwa Road,162,5,4,0,9,2,4,Independent House,Unfurnished,4734622
+Kavi Nagar Extension,355,4,1,0,13,0,4,Builder Floor,Furnished,8292280
+Delhi Road,328,3,2,2,4,2,3,Builder Floor,Furnished,8812872
+Hapur Bypass,239,5,3,1,17,2,5,Builder Floor,Unfurnished,6258840
+Gandhi Ganj,141,3,3,3,14,0,4,Independent House,Furnished,3740135
+Arya Nagar,351,1,1,1,15,2,4,Builder Floor,Furnished,9662345
+Simbhaoli Road,55,5,5,0,19,1,4,Villa,Semi-Furnished,2210455
+Laxmi Nagar,115,2,1,0,17,3,4,Villa,Furnished,2668340
+Meerut Road,163,1,1,2,10,2,5,Villa,Unfurnished,4457970
+Meerut Road,358,2,2,1,12,3,5,Villa,Semi-Furnished,10708976
+Laxmi Nagar,242,3,3,2,18,1,5,Builder Floor,Furnished,7001382
+Shastri Nagar,236,1,1,2,19,4,5,Builder Floor,Semi-Furnished,8591116
+Gandhi Ganj,226,5,2,2,1,2,4,Plot,Unfurnished,9085322
+Railway Road,392,4,2,1,15,3,5,Builder Floor,Furnished,11369392
+Garh Road,95,4,3,2,7,4,5,Independent House,Furnished,2923800
+Gandhi Ganj,114,3,3,2,10,4,5,Independent House,Semi-Furnished,2435860
+Vijay Nagar,195,1,1,0,6,2,3,Plot,Furnished,4382465
+Arya Nagar,137,3,3,3,18,1,4,Builder Floor,Semi-Furnished,2587001
+Kavi Nagar Extension,389,3,2,2,8,4,5,Villa,Semi-Furnished,8818684
+Gandhi Ganj,362,5,2,3,15,4,5,Villa,Furnished,12521800
+Pilkhuwa Road,226,4,1,1,16,3,4,Builder Floor,Semi-Furnished,8671394
+Kavi Nagar Extension,74,2,2,0,5,2,3,Plot,Furnished,2160136
+Simbhaoli Road,87,5,3,1,1,2,5,Villa,Semi-Furnished,2809886
+Railway Road,274,3,2,3,16,3,4,Plot,Semi-Furnished,7057438
+Arya Nagar,286,3,2,0,3,0,5,Villa,Semi-Furnished,7486458
+Babugarh Road,175,3,2,0,15,1,2,Plot,Furnished,5839550
+Meerut Road,260,1,1,3,18,0,1,Plot,Unfurnished,5689760
+Freeganj Road,385,4,4,2,17,1,2,Plot,Furnished,13907020
+Kavi Nagar Extension,94,5,2,1,8,2,5,Builder Floor,Furnished,3854468
+Garh Road,59,1,1,3,17,3,5,Independent House,Semi-Furnished,794084
+Freeganj Road,378,4,3,3,8,4,5,Plot,Unfurnished,13043344
+Railway Road,203,4,1,3,14,2,3,Plot,Unfurnished,5781361
+Simbhaoli Road,118,5,4,2,17,1,2,Villa,Furnished,2813496
+Meerut Road,309,2,1,1,8,2,5,Plot,Semi-Furnished,8507697
+Arya Nagar,305,1,1,1,10,2,3,Villa,Furnished,9390460
+Arya Nagar,347,5,4,3,12,3,4,Independent House,Furnished,12421121
+Hapur Bypass,248,2,2,3,6,4,5,Builder Floor,Unfurnished,9414384
+Pilkhuwa Road,206,2,1,0,17,3,5,Independent House,Semi-Furnished,6244176
+Vijay Nagar,179,1,1,0,6,3,5,Plot,Furnished,3767295
+Railway Road,244,2,1,1,10,3,5,Plot,Unfurnished,6018056
+Kavi Nagar Extension,263,3,3,1,14,0,4,Independent House,Unfurnished,5558445
+Vijay Nagar,84,1,1,2,5,3,4,Plot,Furnished,2965684
+Laxmi Nagar,354,1,1,3,14,2,4,Plot,Semi-Furnished,10101238
+Shastri Nagar,129,4,3,1,16,4,5,Villa,Semi-Furnished,3762156
+Garh Road,56,3,2,1,3,0,2,Villa,Semi-Furnished,1926048
+Pilkhuwa Road,183,5,1,2,16,2,4,Builder Floor,Furnished,5991218
+Railway Road,164,2,2,2,10,4,5,Villa,Furnished,4200244
+Arya Nagar,139,5,3,3,18,3,5,Villa,Furnished,3599742
+Arya Nagar,376,1,1,0,0,4,5,Builder Floor,Semi-Furnished,13951824
+Hapur Bypass,249,4,3,2,2,4,5,Villa,Unfurnished,5833135
+Arya Nagar,56,3,1,2,15,3,4,Villa,Furnished,1722304
+Vijay Nagar,380,2,1,0,17,3,4,Villa,Unfurnished,13521080
+Vijay Nagar,258,3,1,3,2,3,4,Villa,Semi-Furnished,7095770
+Meerut Road,148,4,2,2,15,4,5,Builder Floor,Semi-Furnished,5633152
+Meerut Road,144,1,1,3,19,1,3,Plot,Unfurnished,4413984
+Delhi Road,255,2,1,2,5,2,5,Independent House,Unfurnished,6437535
+Meerut Road,341,3,2,2,12,0,2,Villa,Furnished,7155203
+Shastri Nagar,238,4,1,0,0,1,3,Builder Floor,Unfurnished,6553412
+Kothi Gate,285,1,1,0,1,1,3,Independent House,Unfurnished,6417150
+Kothi Gate,241,5,1,1,13,2,4,Plot,Unfurnished,8463988
+Gandhi Ganj,138,5,4,0,2,4,5,Villa,Furnished,4757238
+Hapur Bypass,355,2,2,0,10,0,2,Builder Floor,Furnished,13721570
+Laxmi Nagar,179,4,1,2,1,0,1,Builder Floor,Furnished,6976157
+Garh Road,65,3,1,0,7,0,5,Villa,Furnished,1644185
+Garh Road,234,2,1,2,3,1,4,Plot,Semi-Furnished,7841896
+Shastri Nagar,300,1,1,1,6,0,1,Builder Floor,Semi-Furnished,10968800
+Babugarh Road,265,4,4,0,17,2,5,Independent House,Furnished,7978970
+Babugarh Road,81,1,1,3,9,0,4,Builder Floor,Unfurnished,2007227
+Freeganj Road,119,2,1,1,9,0,5,Villa,Unfurnished,3722657
+Babugarh Road,67,5,1,0,10,4,5,Villa,Furnished,2728688
+Arya Nagar,128,2,1,1,18,1,3,Builder Floor,Furnished,3214176
+Laxmi Nagar,245,3,3,3,17,1,4,Builder Floor,Semi-Furnished,8304665
+Freeganj Road,242,4,2,0,19,1,4,Villa,Furnished,5130440
+Simbhaoli Road,383,1,1,2,14,3,5,Villa,Furnished,11549563
+Arya Nagar,177,4,4,2,5,0,1,Builder Floor,Furnished,7598848
+Babugarh Road,73,3,2,2,2,4,5,Villa,Furnished,3419197
+Hapur Bypass,261,5,3,0,9,1,2,Villa,Furnished,9385894
+Pilkhuwa Road,207,2,1,1,16,0,3,Builder Floor,Unfurnished,7036889
+Railway Road,106,4,2,2,17,4,5,Plot,Unfurnished,2362242
+Freeganj Road,370,3,1,2,15,3,4,Villa,Furnished,7272200
+Hapur Bypass,103,2,2,3,0,3,5,Plot,Semi-Furnished,3059769
+Shastri Nagar,220,1,1,0,6,3,4,Independent House,Unfurnished,8652040
+Delhi Road,157,2,2,0,3,2,4,Plot,Furnished,4838325
+Garh Road,174,1,1,0,11,0,4,Builder Floor,Furnished,4577680
+Babugarh Road,288,5,2,1,18,1,3,Builder Floor,Unfurnished,10001440
+Simbhaoli Road,146,2,1,2,14,3,4,Plot,Furnished,3632802
+Pilkhuwa Road,146,4,1,2,4,4,5,Builder Floor,Furnished,5781394
+Vijay Nagar,104,2,1,3,5,4,5,Villa,Semi-Furnished,2565400
+Vijay Nagar,84,3,3,0,1,0,1,Independent House,Unfurnished,3835408
+Gandhi Ganj,200,3,2,3,17,2,5,Builder Floor,Unfurnished,7150000
+Railway Road,50,5,4,3,5,1,4,Villa,Semi-Furnished,1908050
+Shastri Nagar,275,4,1,1,16,0,2,Villa,Unfurnished,9213050
+Kavi Nagar Extension,219,3,1,3,14,2,3,Builder Floor,Furnished,5060735
+Pilkhuwa Road,236,2,2,1,3,1,4,Independent House,Semi-Furnished,8658680
+Vijay Nagar,138,4,2,3,0,2,4,Villa,Furnished,5269544
+Delhi Road,225,3,1,1,8,4,5,Plot,Semi-Furnished,8463575
+Shastri Nagar,169,1,1,0,4,0,2,Builder Floor,Semi-Furnished,4304599
+Shastri Nagar,367,1,1,3,16,0,5,Plot,Unfurnished,13639233
+Hapur Bypass,143,2,1,0,17,4,5,Plot,Unfurnished,2431593
+Shastri Nagar,123,5,1,1,9,3,4,Builder Floor,Unfurnished,3078388
+Simbhaoli Road,131,1,1,0,13,0,5,Builder Floor,Furnished,3339306
+Railway Road,181,2,1,3,14,2,3,Builder Floor,Furnished,5395708
+Vijay Nagar,128,3,3,3,4,2,4,Independent House,Furnished,4785152
+Garh Road,75,1,1,1,13,3,4,Plot,Furnished,1469925
+Delhi Road,230,3,2,0,9,2,3,Villa,Furnished,8182290
+Freeganj Road,226,3,3,0,2,3,5,Builder Floor,Unfurnished,8203436
+Hapur Bypass,95,4,4,3,0,0,1,Villa,Unfurnished,4495025
+Kavi Nagar Extension,193,2,2,0,6,3,5,Independent House,Semi-Furnished,5123983
+Kavi Nagar Extension,197,1,1,1,10,1,3,Villa,Semi-Furnished,6099742
+Shastri Nagar,210,2,1,0,19,2,3,Plot,Semi-Furnished,6208850
+Babugarh Road,51,4,2,0,11,1,5,Independent House,Unfurnished,2040916
+Shastri Nagar,127,2,2,1,15,3,5,Villa,Unfurnished,4474095
+Pilkhuwa Road,283,1,1,2,14,4,5,Independent House,Unfurnished,9440658
+Delhi Road,386,4,2,3,19,2,4,Plot,Unfurnished,9497684
+Gandhi Ganj,232,4,4,1,3,2,4,Plot,Semi-Furnished,8032008
+Kavi Nagar Extension,287,5,4,1,17,3,5,Villa,Furnished,9451670
+Delhi Road,295,5,3,3,6,2,4,Independent House,Furnished,7228645
+Simbhaoli Road,204,5,3,0,15,2,3,Villa,Semi-Furnished,5689864
+Kothi Gate,192,3,2,0,4,0,3,Builder Floor,Semi-Furnished,6825280
+Gandhi Ganj,377,5,1,2,5,1,5,Builder Floor,Unfurnished,15575148
+Kothi Gate,84,2,2,1,11,1,2,Builder Floor,Semi-Furnished,2089860
+Shastri Nagar,171,1,1,0,2,2,3,Independent House,Unfurnished,4703833
+Vijay Nagar,53,2,1,1,9,4,5,Plot,Semi-Furnished,1396264
+Meerut Road,181,2,1,2,1,3,4,Plot,Unfurnished,5512301
+Garh Road,311,5,3,2,11,0,2,Villa,Furnished,7468337
+Arya Nagar,299,3,1,3,9,4,5,Plot,Furnished,8918773
+Kavi Nagar Extension,57,4,1,1,11,4,5,Independent House,Unfurnished,2173693
+Pilkhuwa Road,291,5,5,3,17,3,5,Villa,Semi-Furnished,8006418
+Shastri Nagar,184,1,1,0,5,4,5,Independent House,Furnished,5906632
+Kavi Nagar Extension,93,2,1,1,5,0,3,Plot,Furnished,2794269
+Railway Road,343,3,2,3,7,4,5,Independent House,Semi-Furnished,12753379
+Pilkhuwa Road,390,1,1,1,6,0,3,Villa,Furnished,12898310
+Vijay Nagar,269,1,1,3,11,1,4,Villa,Furnished,9710600
+Hapur Bypass,229,2,2,1,10,1,2,Builder Floor,Semi-Furnished,6396959
+Simbhaoli Road,281,5,1,0,1,1,4,Builder Floor,Semi-Furnished,11813460
+Railway Road,275,4,3,2,17,4,5,Plot,Semi-Furnished,6686675
+Meerut Road,159,5,4,0,9,3,4,Independent House,Unfurnished,6356998
+Garh Road,243,2,2,3,0,4,5,Plot,Furnished,9195385
+Simbhaoli Road,91,3,2,0,18,1,4,Builder Floor,Unfurnished,2754142
+Gandhi Ganj,359,1,1,3,1,4,5,Builder Floor,Furnished,12106136
+Meerut Road,67,1,1,3,4,1,3,Villa,Furnished,2369924
+Laxmi Nagar,388,5,3,1,7,2,4,Villa,Unfurnished,12082420
+Meerut Road,304,4,2,2,11,3,5,Villa,Unfurnished,9621712
+Railway Road,307,5,2,1,11,3,4,Villa,Unfurnished,9973754
+Pilkhuwa Road,54,3,2,3,12,0,5,Plot,Semi-Furnished,1115316
+Gandhi Ganj,297,4,4,2,14,3,4,Independent House,Semi-Furnished,8352739
+Delhi Road,75,5,5,2,15,4,5,Plot,Semi-Furnished,2228500
+Pilkhuwa Road,268,5,3,3,3,4,5,Villa,Furnished,9737148
+Gandhi Ganj,349,4,2,0,15,0,4,Villa,Semi-Furnished,9713112
+Vijay Nagar,61,5,4,1,2,4,5,Builder Floor,Furnished,2173497
+Freeganj Road,275,5,2,0,15,1,3,Independent House,Semi-Furnished,7741550
+Freeganj Road,91,4,1,0,6,0,5,Plot,Unfurnished,3593454
+Laxmi Nagar,192,5,5,2,18,1,5,Villa,Furnished,5707360
+Babugarh Road,53,2,2,3,3,0,4,Plot,Semi-Furnished,1505093
+Kothi Gate,150,3,1,0,17,2,5,Independent House,Semi-Furnished,3594350
+Vijay Nagar,112,1,1,2,1,0,4,Builder Floor,Semi-Furnished,4157808
+Railway Road,304,5,2,2,9,3,5,Plot,Unfurnished,10074928
+Arya Nagar,283,1,1,2,16,2,5,Plot,Unfurnished,6461133
+Simbhaoli Road,223,2,2,2,16,3,4,Plot,Furnished,7269862
+Meerut Road,373,2,1,3,7,2,5,Plot,Unfurnished,9010206
+Simbhaoli Road,265,1,1,3,15,0,5,Villa,Unfurnished,6619310
+Hapur Bypass,76,4,4,3,11,3,4,Builder Floor,Unfurnished,2965328
+Meerut Road,391,2,1,1,16,3,4,Independent House,Unfurnished,14548321
+Kothi Gate,245,4,3,1,19,3,5,Villa,Semi-Furnished,8804260
+Hapur Bypass,194,2,1,0,18,4,5,Plot,Unfurnished,6437634
+Vijay Nagar,255,4,4,3,19,2,3,Builder Floor,Furnished,8868330
+Delhi Road,298,4,1,3,1,1,2,Builder Floor,Unfurnished,7946700
+Freeganj Road,315,2,1,0,6,4,5,Independent House,Unfurnished,10228195
+Laxmi Nagar,59,3,3,0,7,0,4,Independent House,Furnished,2448576
+Arya Nagar,280,5,5,0,8,0,5,Independent House,Unfurnished,7076120
+Kothi Gate,234,4,1,3,5,2,5,Independent House,Unfurnished,7660324
+Shastri Nagar,355,1,1,0,13,0,5,Villa,Semi-Furnished,7937230
+Freeganj Road,341,2,2,1,5,0,1,Villa,Semi-Furnished,11533262
+Freeganj Road,268,5,4,2,15,3,5,Independent House,Furnished,8484300
+Laxmi Nagar,231,1,1,3,4,4,5,Villa,Furnished,7817271
+Kavi Nagar Extension,247,1,1,0,18,0,1,Plot,Unfurnished,7839284
+Gandhi Ganj,326,3,1,3,2,0,5,Villa,Unfurnished,7345022
+Shastri Nagar,104,4,4,3,12,1,2,Plot,Furnished,3684936
+Simbhaoli Road,136,1,1,0,1,2,5,Builder Floor,Unfurnished,4052520
+Meerut Road,167,2,2,2,19,0,1,Independent House,Semi-Furnished,3521126
+Garh Road,307,4,3,0,4,1,2,Villa,Unfurnished,9487343
+Shastri Nagar,300,1,1,2,3,4,5,Independent House,Furnished,12002900
+Hapur Bypass,246,4,4,3,8,3,4,Plot,Semi-Furnished,9765466
+Garh Road,63,5,2,1,18,3,5,Independent House,Unfurnished,1909360
+Freeganj Road,335,3,3,2,16,0,4,Independent House,Unfurnished,11393010
+Gandhi Ganj,237,5,3,1,18,4,5,Builder Floor,Semi-Furnished,8983471
+Meerut Road,197,1,1,0,16,4,5,Villa,Semi-Furnished,4676448
+Laxmi Nagar,59,3,3,3,6,3,5,Builder Floor,Furnished,2075605
+Gandhi Ganj,76,4,2,2,6,0,5,Villa,Furnished,2134152
+Simbhaoli Road,303,2,1,3,17,3,5,Plot,Furnished,9932598
+Arya Nagar,250,3,3,1,4,3,5,Villa,Semi-Furnished,7704750
+Babugarh Road,216,4,4,0,11,1,4,Builder Floor,Unfurnished,8706184
+Vijay Nagar,199,4,1,1,3,0,1,Plot,Semi-Furnished,5718530
+Babugarh Road,189,2,1,3,17,1,3,Plot,Unfurnished,4562847
+Arya Nagar,195,2,2,2,11,1,2,Villa,Semi-Furnished,4786425
