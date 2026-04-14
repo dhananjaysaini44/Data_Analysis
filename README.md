@@ -25,6 +25,9 @@ This repository is a notebook-first learning workspace for Python-based data ana
 - `FSML_9.ipynb` - encoding/scaling experiments across multiple datasets
 - `P_2_FSML_9.ipynb` - extended Titanic-style preprocessing/modeling flow
 - `FSML_10.ipynb` - advanced continuation notebook in the FSML sequence
+- `Credit_Risk.ipynb` - credit-risk classification practice
+- `KNN.ipynb` - K-nearest neighbors practice notebook
+- `Polynomial Regression.ipynb` - polynomial regression walkthrough
 - `hapur_house_price_prediction_model.ipynb` - house-price prediction workflow
 - `hapur_house_price_prediction_model_corrected.ipynb` - refined house-price workflow
 
@@ -38,6 +41,7 @@ This repository is a notebook-first learning workspace for Python-based data ana
 - `Bengaluru_House_Data.csv`
 - `Fortune_10.csv`
 - `Who_is_responsible_for_global_warming.csv`
+- `credit_risk_dataset.csv`
 - `train.csv`
 - `tips.csv`
 - `fruits.csv`
@@ -52,7 +56,7 @@ This repository is a notebook-first learning workspace for Python-based data ana
 
 ### Generated Visual Outputs
 
-The repository also contains multiple `.png` charts generated from EDA and cleaning workflows, especially for the `train.csv` exercises.
+Notebook-generated chart exports such as `.png`, `.svg`, `.pdf`, and `.html` files are treated as derived artifacts and should stay out of Git unless they are intentionally curated for documentation.
 
 ## Tech Stack
 
@@ -95,8 +99,17 @@ jupyter notebook
 8. `FSML_9.ipynb`
 9. `P_2_FSML_9.ipynb`
 10. `FSML_10.ipynb`
-11. `hapur_house_price_prediction_model.ipynb`
-12. `hapur_house_price_prediction_model_corrected.ipynb`
+11. `Credit_Risk.ipynb`
+12. `KNN.ipynb`
+13. `Polynomial Regression.ipynb`
+14. `hapur_house_price_prediction_model.ipynb`
+15. `hapur_house_price_prediction_model_corrected.ipynb`
+
+## Git Hygiene
+
+- Commit notebooks, markdown guides, environment files, and the small teaching datasets used by the exercises.
+- Ignore local-only artifacts such as `.idea/`, `.ipynb_checkpoints/`, virtual environments, caches, logs, and exported plots.
+- If you later reorganize the repository, prefer `data/` for raw datasets and `outputs/` for derived charts so Git tracking rules stay simple.
 
 ## Positive Improvement Opportunities
 
