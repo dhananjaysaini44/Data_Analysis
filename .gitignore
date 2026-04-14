@@ -1,44 +1,59 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Virtual environments
 .venv/
+venv/
+env/
+ENV/
 
-# Python cache
-__pycache__/
-*.pyc
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
 
-# Local database files
-*.db
-*.sqlite
-*.sqlite3
-*.db3
-*.sdb
-*.mdb
-*.accdb
-*.db-journal
-*.sqlite-journal
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Local IDE files
+# IDE and editor settings
 .idea/
+.vscode/
 
-# Datasets
-Fortune_10.csv
-fruits.csv
-ghaziabad_house_price_dataset_1000.csv
-students_dirty_data.csv
-tips.csv
-titanic_AfterEDA.csv
-titanic after encoding.csv
-train.csv
-Who_is_responsible_for_global_warming.csv
-df1_students.txt
-df2_marks.txt
-students_dataset.txt
-Bengaluru_House_Data.csv
-hapur_house_price_dataset.csv
+# OS-generated files
+Thumbs.db
+.DS_Store
 
-# Generated visualizations
+# Local environment files
+.env
+.env.*
+.python-version
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Generated analysis outputs
+*.html
+*.pdf
+*.svg
+outputs/
+figures/
+
+# Existing chart exports currently generated from notebooks
 Barplot visualization of cleaned data for 'train_csv' dataset on object type columns.png
 cleaned data.png
 Histplot visualization of cleaned data for 'train_csv' dataset on numeric columns using Method 2.png
